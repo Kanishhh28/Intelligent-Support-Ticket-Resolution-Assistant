@@ -1,0 +1,392 @@
+[
+  {
+    "source_id": "KB-NET-001",
+    "source_type": "knowledge_base",
+    "title": "No Mobile Network or No Signal",
+    "content": "Symptoms:\nThe customer has no mobile network signal or the device displays No Service.\n\nTroubleshooting:\n1. Confirm that the issue is occurring in the affected location.\n2. Toggle airplane mode off and on, then check whether the network reconnects.\n3. Restart the mobile device.\n4. Verify that the SIM/eSIM is enabled and detected by the device.\n5. Check whether other customers in the same area are experiencing the same issue.\n6. If available, check the network outage or service-status information.\n\nEscalation:\nEscalate when the device still has no service after basic checks, when the SIM/eSIM is not recognized, or when a network outage is suspected.",
+    "product": "Mobile Network",
+    "intent": "No Signal",
+    "severity": "high",
+    "metadata": {
+      "category": "network",
+      "authoritative": true
+    }
+  },
+  {
+    "source_id": "KB-NET-003",
+    "source_type": "knowledge_base",
+    "title": "Frequent Call Drops",
+    "content": "Symptoms:\nVoice calls disconnect unexpectedly or repeatedly.\n\nTroubleshooting:\n1. Record the approximate locations where calls drop.\n2. Check whether the problem occurs on multiple calls.\n3. Restart the device and retry a call.\n4. Verify that the device shows a stable mobile signal.\n5. Check whether the issue occurs only in one location or across multiple locations.\n6. Check available network outage or degradation information.\n\nEscalation:\nEscalate when repeated call drops persist across locations or when a network issue is suspected.",
+    "product": "Voice",
+    "intent": "Call Drops",
+    "severity": "high",
+    "metadata": {
+      "category": "voice",
+      "authoritative": true
+    }
+  },
+  {
+    "source_id": "KB-NET-004",
+    "source_type": "knowledge_base",
+    "title": "Poor Voice Call Quality",
+    "content": "Symptoms:\nThe customer reports distorted, choppy, or unclear voice calls.\n\nTroubleshooting:\n1. Confirm whether the issue affects incoming calls, outgoing calls, or both.\n2. Check the mobile signal at the location of the call.\n3. Retry the call after restarting the device.\n4. Determine whether poor quality occurs with multiple contacts.\n5. Check whether the issue is limited to a particular location.\n\nEscalation:\nEscalate when poor call quality persists with stable signal conditions or affects multiple calls and locations.",
+    "product": "Voice",
+    "intent": "Call Quality",
+    "severity": "medium",
+    "metadata": {
+      "category": "voice",
+      "authoritative": true
+    }
+  },
+  {
+    "source_id": "KB-DATA-001",
+    "source_type": "knowledge_base",
+    "title": "Mobile Data Not Working",
+    "content": "Symptoms:\nThe customer has mobile network signal but cannot access the internet using mobile data.\n\nTroubleshooting:\n1. Confirm that mobile data is enabled on the device.\n2. Verify that the correct SIM/eSIM is selected for mobile data on dual-SIM devices.\n3. Toggle mobile data off and on.\n4. Restart the device.\n5. Verify the device's APN configuration against the approved carrier configuration.\n6. Check whether the customer's data allowance or plan is active.\n\nEscalation:\nEscalate when mobile data remains unavailable after these checks or when the account, plan, or network status requires operator-side verification.",
+    "product": "Mobile Data",
+    "intent": "Data Not Working",
+    "severity": "high",
+    "metadata": {
+      "category": "data",
+      "authoritative": true
+    }
+  },
+  {
+    "source_id": "KB-DATA-002",
+    "source_type": "knowledge_base",
+    "title": "Slow Mobile Internet",
+    "content": "Symptoms:\nMobile data works but internet speeds are significantly slower than expected.\n\nTroubleshooting:\n1. Record the location and approximate time when the slowdown occurs.\n2. Check the device's signal strength and network technology.\n3. Retry the connection after toggling mobile data.\n4. Determine whether the slowdown occurs across multiple applications.\n5. Check whether the customer's data allowance or plan has reached a usage threshold.\n6. Check for known network congestion or service degradation.\n\nEscalation:\nEscalate when slow speeds persist across locations and applications or when network degradation is suspected.",
+    "product": "Mobile Data",
+    "intent": "Slow Data",
+    "severity": "medium",
+    "metadata": {
+      "category": "data",
+      "authoritative": true
+    }
+  },
+  {
+    "source_id": "KB-DATA-003",
+    "source_type": "knowledge_base",
+    "title": "Mobile Data Allowance Exhausted",
+    "content": "Symptoms:\nMobile internet access is unavailable or restricted after the customer's data allowance has been consumed.\n\nTroubleshooting:\n1. Check the customer's current data usage and remaining allowance.\n2. Confirm the active plan or data pack.\n3. If the allowance is exhausted, follow the supported process for purchasing or activating an additional data pack.\n4. Recheck mobile data after the additional allowance becomes active.\n\nEscalation:\nEscalate when the account shows available data but mobile data remains unavailable.",
+    "product": "Mobile Data",
+    "intent": "Data Allowance",
+    "severity": "medium",
+    "metadata": {
+      "category": "data",
+      "authoritative": true
+    }
+  },
+  {
+    "source_id": "KB-5G-001",
+    "source_type": "knowledge_base",
+    "title": "5G Not Available",
+    "content": "Symptoms:\nA customer with a compatible device does not see a 5G network connection.\n\nTroubleshooting:\n1. Confirm that the device model supports the required 5G service.\n2. Confirm that the customer's plan supports 5G where applicable.\n3. Verify that 5G is enabled in the device's preferred network settings.\n4. Confirm that the customer is in an area with 5G coverage.\n5. Restart the device and check network registration again.\n\nEscalation:\nEscalate when the device, plan, settings, and coverage are confirmed but 5G still does not connect.",
+    "product": "5G",
+    "intent": "5G Connectivity",
+    "severity": "medium",
+    "metadata": {
+      "category": "5g",
+      "authoritative": true
+    }
+  },
+  {
+    "source_id": "KB-5G-002",
+    "source_type": "knowledge_base",
+    "title": "4G or LTE Connectivity Issue",
+    "content": "Symptoms:\nA customer cannot connect to 4G/LTE or repeatedly falls back to a slower network.\n\nTroubleshooting:\n1. Confirm that the device supports the required 4G/LTE service.\n2. Check the preferred network mode on the device.\n3. Confirm that the SIM/eSIM is active.\n4. Restart the device and retry network registration.\n5. Check coverage and known service degradation for the customer's location.\n\nEscalation:\nEscalate when 4G/LTE remains unavailable despite compatible device, active SIM/eSIM, correct settings, and expected coverage.",
+    "product": "4G/LTE",
+    "intent": "4G Connectivity",
+    "severity": "medium",
+    "metadata": {
+      "category": "4g",
+      "authoritative": true
+    }
+  },
+  {
+    "source_id": "KB-SIM-001",
+    "source_type": "knowledge_base",
+    "title": "SIM Not Detected",
+    "content": "Symptoms:\nThe device reports that no SIM is detected.\n\nTroubleshooting:\n1. Restart the device.\n2. If using a physical SIM, verify that it is correctly seated.\n3. Check whether the SIM is detected after reinsertion.\n4. Test the SIM in a compatible device when appropriate.\n5. Confirm that the account and SIM status are active.\n\nEscalation:\nEscalate when the SIM is not detected in a compatible device or when account/SIM status requires operator-side action.",
+    "product": "SIM",
+    "intent": "SIM Not Detected",
+    "severity": "high",
+    "metadata": {
+      "category": "sim",
+      "authoritative": true
+    }
+  },
+  {
+    "source_id": "KB-SIM-002",
+    "source_type": "knowledge_base",
+    "title": "SIM Activation Failure",
+    "content": "Symptoms:\nA newly issued SIM cannot connect to the mobile network after activation.\n\nTroubleshooting:\n1. Confirm that the activation request was submitted for the correct SIM.\n2. Confirm that the activation process has completed according to the account status.\n3. Restart the device after activation.\n4. Verify that the SIM is detected and enabled.\n5. Check whether the account shows the expected active SIM status.\n\nEscalation:\nEscalate when activation remains incomplete or the account status does not match the expected active state.",
+    "product": "SIM",
+    "intent": "SIM Activation",
+    "severity": "high",
+    "metadata": {
+      "category": "sim",
+      "authoritative": true
+    }
+  },
+  {
+    "source_id": "KB-SIM-003",
+    "source_type": "knowledge_base",
+    "title": "eSIM Activation Troubleshooting",
+    "content": "Symptoms:\nA customer cannot activate or connect using an eSIM.\n\nTroubleshooting:\n1. Confirm that the device supports eSIM.\n2. Confirm that the eSIM activation information is for the correct account and device.\n3. Follow the supported eSIM installation and activation flow.\n4. Verify that the eSIM profile is enabled after installation.\n5. Restart the device and check network registration.\n\nEscalation:\nEscalate when the eSIM profile cannot be installed, remains inactive, or requires operator-side provisioning.",
+    "product": "eSIM",
+    "intent": "eSIM Activation",
+    "severity": "high",
+    "metadata": {
+      "category": "esim",
+      "authoritative": true
+    }
+  },
+  {
+    "source_id": "KB-CALL-001",
+    "source_type": "knowledge_base",
+    "title": "Outgoing Calls Not Working",
+    "content": "Symptoms:\nThe customer cannot place outgoing voice calls.\n\nTroubleshooting:\n1. Confirm that the device has mobile network service.\n2. Check whether the issue occurs with multiple numbers.\n3. Restart the device and retry the call.\n4. Verify that the account and voice service are active.\n5. Record any displayed error message.\n\nEscalation:\nEscalate when network service and account status are active but outgoing calls continue to fail.",
+    "product": "Voice",
+    "intent": "Outgoing Calls",
+    "severity": "high",
+    "metadata": {
+      "category": "voice",
+      "authoritative": true
+    }
+  },
+  {
+    "source_id": "KB-CALL-002",
+    "source_type": "knowledge_base",
+    "title": "Incoming Calls Not Working",
+    "content": "Symptoms:\nThe customer cannot receive incoming voice calls.\n\nTroubleshooting:\n1. Confirm that the device is registered on the mobile network.\n2. Verify that the correct SIM/eSIM is active.\n3. Restart the device and retry an incoming call.\n4. Check whether the issue affects calls from multiple numbers.\n5. Record any error message or call behavior.\n\nEscalation:\nEscalate when incoming calls remain unavailable despite active network registration and service.",
+    "product": "Voice",
+    "intent": "Incoming Calls",
+    "severity": "high",
+    "metadata": {
+      "category": "voice",
+      "authoritative": true
+    }
+  },
+  {
+    "source_id": "KB-SMS-001",
+    "source_type": "knowledge_base",
+    "title": "SMS Not Sending or Receiving",
+    "content": "Symptoms:\nThe customer cannot send or receive SMS messages.\n\nTroubleshooting:\n1. Confirm that the device has mobile network service.\n2. Restart the device and retry an SMS.\n3. Determine whether both sending and receiving are affected.\n4. Test with another recipient or sender when appropriate.\n5. Record any error message.\n6. Check for known messaging service issues.\n\nEscalation:\nEscalate when SMS remains unavailable despite active network service or when a messaging service issue is suspected.",
+    "product": "SMS",
+    "intent": "SMS Failure",
+    "severity": "medium",
+    "metadata": {
+      "category": "messaging",
+      "authoritative": true
+    }
+  },
+  {
+    "source_id": "KB-ROAM-001",
+    "source_type": "knowledge_base",
+    "title": "Roaming Service Not Working",
+    "content": "Symptoms:\nA customer cannot use voice, SMS, or mobile data while roaming.\n\nTroubleshooting:\n1. Confirm the country or network where roaming is being attempted.\n2. Verify that roaming is enabled on the account and device where required.\n3. Restart the device and allow it to register on an available partner network.\n4. Check whether the customer's plan includes the required roaming service.\n5. Verify the selected network settings.\n\nEscalation:\nEscalate when roaming is enabled and included but the device cannot register or use the service.",
+    "product": "Roaming",
+    "intent": "Roaming",
+    "severity": "high",
+    "metadata": {
+      "category": "roaming",
+      "authoritative": true
+    }
+  },
+  {
+    "source_id": "KB-ROAM-002",
+    "source_type": "knowledge_base",
+    "title": "Unexpected Roaming Charges",
+    "content": "Symptoms:\nA customer reports unexpected charges while using mobile services outside the home network.\n\nTroubleshooting:\n1. Record the charge date, amount, service type, and roaming location.\n2. Check the active roaming plan or pack when account information is available.\n3. Compare the charge with the applicable account usage records.\n4. Do not promise a refund without billing verification.\n\nEscalation:\nEscalate to a billing or roaming specialist when the charge cannot be matched to verified usage or the customer disputes the charge.",
+    "product": "Roaming",
+    "intent": "Roaming Billing",
+    "severity": "high",
+    "metadata": {
+      "category": "roaming",
+      "authoritative": true
+    }
+  },
+  {
+    "source_id": "KB-APN-001",
+    "source_type": "knowledge_base",
+    "title": "APN Configuration for Mobile Data",
+    "content": "Symptoms:\nMobile data does not work even though the device has mobile network signal.\n\nTroubleshooting:\n1. Open the device's mobile-network APN settings.\n2. Verify that the configured APN matches the approved carrier configuration.\n3. Correct missing or incorrect APN values using the carrier-provided configuration.\n4. Save and select the correct APN.\n5. Toggle mobile data or restart the device.\n6. Test mobile internet again.\n\nEscalation:\nEscalate when the approved APN configuration is correct but mobile data still does not work.",
+    "product": "Mobile Data",
+    "intent": "APN Configuration",
+    "severity": "medium",
+    "metadata": {
+      "category": "configuration",
+      "authoritative": true
+    }
+  },
+  {
+    "source_id": "KB-OUTAGE-001",
+    "source_type": "knowledge_base",
+    "title": "Suspected Mobile Network Outage",
+    "content": "Symptoms:\nMultiple customers in the same area report loss of mobile network service.\n\nTroubleshooting:\n1. Identify the affected geographic area.\n2. Determine whether multiple customers or devices are affected.\n3. Check the available network-status or incident information.\n4. Record the approximate start time and affected services.\n5. Avoid recommending unrelated device changes when a network-wide incident is confirmed.\n\nEscalation:\nEscalate to the network incident process when a service-wide or area-wide outage is suspected or confirmed.",
+    "product": "Mobile Network",
+    "intent": "Network Outage",
+    "severity": "critical",
+    "metadata": {
+      "category": "outage",
+      "authoritative": true
+    }
+  },
+  {
+    "source_id": "KB-OUTAGE-002",
+    "source_type": "knowledge_base",
+    "title": "Regional Network Degradation",
+    "content": "Symptoms:\nCustomers in a particular area experience slow data, call-quality problems, or intermittent connectivity.\n\nTroubleshooting:\n1. Identify the affected location.\n2. Determine which services are affected.\n3. Check whether multiple customers report the same behavior.\n4. Record approximate times and symptoms.\n5. Check available network-status information.\n\nEscalation:\nEscalate to the network operations process when multiple customers are affected or service degradation is confirmed.",
+    "product": "Mobile Network",
+    "intent": "Network Degradation",
+    "severity": "high",
+    "metadata": {
+      "category": "outage",
+      "authoritative": true
+    }
+  },
+  {
+    "source_id": "KB-BILL-001",
+    "source_type": "knowledge_base",
+    "title": "Incorrect Mobile Bill Amount",
+    "content": "Symptoms:\nA customer disputes the amount shown on a mobile bill.\n\nTroubleshooting:\n1. Record the billing period and disputed amount.\n2. Identify the customer's active plan and applicable add-ons.\n3. Compare the disputed amount with available usage and billing records.\n4. Check whether additional services, packs, roaming, or other chargeable activity appears on the account.\n5. Do not promise a billing adjustment without account-level verification.\n\nEscalation:\nEscalate to billing support when the amount cannot be reconciled with available account records.",
+    "product": "Billing",
+    "intent": "Billing Dispute",
+    "severity": "high",
+    "metadata": {
+      "category": "billing",
+      "authoritative": true
+    }
+  },
+  {
+    "source_id": "KB-BILL-002",
+    "source_type": "knowledge_base",
+    "title": "Recharge or Payment Failure",
+    "content": "Symptoms:\nA customer cannot complete a recharge or payment.\n\nTroubleshooting:\n1. Confirm the recharge amount and selected payment method.\n2. Check the displayed payment or recharge error.\n3. Verify whether the payment was actually completed before retrying.\n4. Avoid repeatedly submitting the same payment when transaction status is uncertain.\n5. If the payment succeeded but the recharge is not reflected, record the transaction reference.\n\nEscalation:\nEscalate to billing support when payment status and recharge status do not match or when a completed payment is not reflected.",
+    "product": "Billing",
+    "intent": "Recharge Failure",
+    "severity": "high",
+    "metadata": {
+      "category": "billing",
+      "authoritative": true
+    }
+  },
+  {
+    "source_id": "KB-PLAN-001",
+    "source_type": "knowledge_base",
+    "title": "Mobile Plan or Pack Activation",
+    "content": "Symptoms:\nA customer purchased or requested a plan or data pack but the service is not active.\n\nTroubleshooting:\n1. Confirm the selected plan or pack.\n2. Verify the transaction or activation status.\n3. Check whether the account shows the plan as active.\n4. Restart the device or refresh the network connection after confirmed activation.\n5. Verify the relevant service again.\n\nEscalation:\nEscalate when payment is confirmed but the requested plan or pack remains inactive in the account.",
+    "product": "Mobile Plan",
+    "intent": "Plan Activation",
+    "severity": "high",
+    "metadata": {
+      "category": "plans",
+      "authoritative": true
+    }
+  },
+  {
+    "source_id": "KB-ACCOUNT-001",
+    "source_type": "knowledge_base",
+    "title": "Telecom Account Login or Access Problem",
+    "content": "Symptoms:\nA customer cannot access the telecom self-service account.\n\nTroubleshooting:\n1. Verify the account identifier being used.\n2. Use the supported password-reset or account-recovery process.\n3. Confirm that the customer can receive the required recovery verification.\n4. Retry login with the updated credentials.\n5. Do not request or store the customer's password or authentication code.\n\nEscalation:\nEscalate when account recovery fails, required verification is unavailable, or account ownership cannot be established through the supported process.",
+    "product": "Customer Account",
+    "intent": "Account Access",
+    "severity": "medium",
+    "metadata": {
+      "category": "account",
+      "authoritative": true
+    }
+  },
+  {
+    "source_id": "KB-SEC-001",
+    "source_type": "knowledge_base",
+    "title": "Suspected Unauthorized SIM or Account Activity",
+    "content": "Symptoms:\nA customer reports suspicious account activity, an unexpected SIM change, or suspected unauthorized access.\n\nProcedure:\n1. Record the reported activity without requesting unnecessary sensitive information.\n2. Do not request passwords, authentication codes, or secret credentials.\n3. Follow the approved account-security process.\n4. Require appropriate identity verification for sensitive account actions.\n5. Preserve relevant timestamps and transaction information.\n\nEscalation:\nEscalate immediately to the designated security or human support process when unauthorized SIM or account activity is suspected.",
+    "product": "Account Security",
+    "intent": "Security Incident",
+    "severity": "critical",
+    "metadata": {
+      "category": "security",
+      "authoritative": true
+    }
+  },
+  {
+    "source_id": "KB-TROUBLE-001",
+    "source_type": "knowledge_base",
+    "title": "General Telecom Troubleshooting and Escalation Procedure",
+    "content": "Procedure:\n1. Identify the exact customer-visible symptom.\n2. Record the affected service: voice, SMS, mobile data, SIM/eSIM, roaming, billing, or account.\n3. Capture any relevant error message and approximate time and location.\n4. Determine whether the issue affects one customer or multiple customers.\n5. Search authoritative telecom knowledge for a matching symptom, error, or service.\n6. Apply only troubleshooting steps supported by the retrieved authoritative evidence.\n7. Verify whether the issue is resolved.\n8. Escalate when the evidence does not support a safe resolution, when a network incident is suspected, or when account/security action requires human authorization.\n\nEscalation:\nHuman support is required for unsupported issues, security-sensitive actions, unresolved account-level problems, billing disputes requiring investigation, and confirmed or suspected network incidents.",
+    "product": "Telecom Support",
+    "intent": "General Troubleshooting",
+    "severity": "medium",
+    "metadata": {
+      "category": "troubleshooting",
+      "authoritative": true
+    }
+  },
+  {
+    "source_id": "KB-BB-001",
+    "source_type": "knowledge_base",
+    "title": "Broadband Connection Drops",
+    "content": "Symptoms:\nThe customer reports that the broadband connection disconnects intermittently, repeatedly drops during use, or becomes unavailable at specific times of day.\n\nTroubleshooting:\n1. Confirm whether the connection drop affects all connected devices or only one device.\n2. Restart the broadband router and allow it to reconnect fully.\n3. Check that the router's power, broadband/DSL/fiber, and network indicator lights show normal status.\n4. Check whether the issue occurs repeatedly at a particular time or under a specific usage pattern.\n5. If possible, connect another device to the broadband network and check whether the connection remains stable.\n6. Check whether other customers in the same area are reporting connectivity problems.\n\nEscalation:\nEscalate when the connection continues to drop after basic troubleshooting, when the router indicates an abnormal broadband/fiber status, or when a wider service issue is suspected.",
+    "product": "Broadband",
+    "intent": "Connectivity Issue",
+    "severity": "high",
+    "metadata": {
+      "category": "broadband",
+      "authoritative": true
+    }
+  },
+  {
+    "source_id": "KB-BB-002",
+    "source_type": "knowledge_base",
+    "title": "Slow Broadband",
+    "content": "Symptoms:\nThe customer reports that broadband internet speed is consistently slower than expected or that browsing, streaming, downloads, or other online activities are unusually slow.\n\nTroubleshooting:\n1. Confirm whether the slow performance affects all connected devices or only one device.\n2. Restart the broadband router.\n3. Test the connection from a device connected directly or with a strong Wi-Fi signal where possible.\n4. Check whether multiple devices are consuming significant bandwidth at the same time.\n5. Run an available connection-speed test and record the observed result.\n6. Check whether the slowdown occurs continuously or only during particular periods.\n\nEscalation:\nEscalate when broadband performance remains significantly degraded after basic checks, when the measured performance is consistently below the expected service level, or when a wider network issue is suspected.",
+    "product": "Broadband",
+    "intent": "Slow Broadband",
+    "severity": "medium",
+    "metadata": {
+      "category": "broadband",
+      "authoritative": true
+    }
+  },
+  {
+    "source_id": "KB-BB-003",
+    "source_type": "knowledge_base",
+    "title": "Broadband Router Troubleshooting",
+    "content": "Symptoms:\nThe customer is unable to establish a stable broadband connection and basic router checks are required before further diagnosis.\n\nTroubleshooting:\n1. Confirm that the router is powered on.\n2. Check that the broadband/DSL/fiber cable is securely connected.\n3. Check the router indicator lights for power, broadband/fiber, and network status.\n4. Restart the router and wait for the connection to initialize.\n5. Check whether the customer can connect another device to the router.\n6. If the router remains unable to establish service, record the indicator-light status and any displayed error information.\n\nEscalation:\nEscalate when the router does not establish a broadband connection after restarting and checking the physical connections, when abnormal indicator status persists, or when hardware/service investigation is required.",
+    "product": "Broadband",
+    "intent": "Router Troubleshooting",
+    "severity": "medium",
+    "metadata": {
+      "category": "broadband",
+      "authoritative": true
+    }
+  },
+  {
+    "source_id": "KB-BB-004",
+    "source_type": "knowledge_base",
+    "title": "Broadband Outage",
+    "content": "Symptoms:\nThe customer reports complete loss of broadband service, and the issue may affect multiple users or locations.\n\nTroubleshooting:\n1. Confirm whether the broadband service is unavailable on all connected devices.\n2. Restart the broadband router and check whether service returns.\n3. Check the router's broadband/DSL/fiber indicator for an abnormal status.\n4. Check available service-status or outage information.\n5. Confirm whether other customers in the same area are experiencing similar connectivity problems.\n\nEscalation:\nEscalate when broadband service remains unavailable after basic troubleshooting, when an outage is confirmed or strongly suspected, or when the issue affects multiple customers in the same area.",
+    "product": "Broadband",
+    "intent": "Broadband Outage",
+    "severity": "high",
+    "metadata": {
+      "category": "broadband",
+      "authoritative": true
+    }
+  },
+  {
+    "source_id": "KB-BB-005",
+    "source_type": "knowledge_base",
+    "title": "Broadband Escalation",
+    "content": "Symptoms:\nThe customer continues to experience a broadband connectivity problem after the applicable troubleshooting steps have been completed.\n\nTroubleshooting:\n1. Confirm that the basic router and connectivity checks have already been completed.\n2. Record the affected service, observed symptoms, frequency of the problem, and approximate time of occurrence.\n3. Record relevant router indicator-light status and any available error information.\n4. Confirm whether the issue affects one device, multiple devices, or multiple customers.\n5. Check available service-status information before escalation.\n\nEscalation:\nEscalate when the broadband problem persists after basic troubleshooting, when service or network investigation is required, when a suspected outage cannot be resolved through standard checks, or when the issue requires actions unavailable to frontline support.",
+    "product": "Broadband",
+    "intent": "Broadband Escalation",
+    "severity": "high",
+    "metadata": {
+      "category": "broadband",
+      "authoritative": true
+    }
+  }
+]

@@ -1,0 +1,19 @@
+# Environment variables and secrets
+.env
+.env.*
+
+# Virtual environments
+prodapt/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log

@@ -1,0 +1,553 @@
+#root {
+  min-height: 100vh;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family:
+    Inter,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
+  background: #f7f8fa;
+  color: #17191c;
+}
+
+button,
+textarea {
+  font: inherit;
+}
+
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: #f7f8fa;
+}
+
+/* =========================
+   HEADER
+========================= */
+
+.header {
+  width: 100%;
+  background: #ffffff;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.brand {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 18px 28px;
+  display: flex;
+  align-items: center;
+  gap: 18px;
+}
+
+/* Prodapt logo */
+
+.prodapt-logo {
+  width: 125px;
+  height: auto;
+  display: block;
+  object-fit: contain;
+}
+
+/* Divider between logo and application name */
+
+.brand-divider {
+  width: 1px;
+  height: 34px;
+  background: #e2e4e7;
+}
+
+.brand h1 {
+  margin: 0;
+  font-size: 15px;
+  line-height: 1.3;
+  font-weight: 650;
+  letter-spacing: -0.2px;
+}
+
+.brand p {
+  margin: 3px 0 0;
+  font-size: 12px;
+  color: #73777f;
+}
+
+/* =========================
+   MAIN
+========================= */
+
+.main {
+  width: min(900px, calc(100% - 48px));
+  margin: 0 auto;
+  flex: 1;
+}
+
+/* =========================
+   INPUT PAGE
+========================= */
+
+.input-page {
+  padding: 72px 0 80px;
+}
+
+.hero {
+  margin-bottom: 34px;
+}
+
+.eyebrow {
+  display: inline-block;
+  margin-bottom: 16px;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 1.7px;
+  color: #73777f;
+}
+
+.hero h2 {
+  margin: 0;
+  font-size: clamp(42px, 6vw, 62px);
+  line-height: 1.03;
+  letter-spacing: -3px;
+  font-weight: 700;
+}
+
+.hero h2 span {
+  color: #73777f;
+}
+
+.description {
+  max-width: 650px;
+  margin: 22px 0 0;
+  color: #656a72;
+  font-size: 15px;
+  line-height: 1.65;
+}
+
+/* =========================
+   TICKET CARD
+========================= */
+
+.ticket-card {
+  background: #ffffff;
+  border: 1px solid #e1e3e7;
+  border-radius: 16px;
+  padding: 26px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.035);
+}
+
+.ticket-card label {
+  display: block;
+  margin-bottom: 12px;
+  font-size: 13px;
+  font-weight: 650;
+}
+
+textarea {
+  width: 100%;
+  min-height: 190px;
+  resize: vertical;
+  border: 1px solid #dfe2e6;
+  border-radius: 11px;
+  padding: 15px;
+  outline: none;
+  background: #fafafa;
+  color: #17191c;
+  font-size: 14px;
+  line-height: 1.6;
+  transition:
+    border-color 0.2s,
+    background 0.2s;
+}
+
+textarea:focus {
+  border-color: #92969d;
+  background: #ffffff;
+}
+
+textarea::placeholder {
+  color: #a0a4aa;
+}
+
+textarea:disabled {
+  opacity: 0.7;
+}
+
+/* Input footer */
+
+.input-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 14px;
+}
+
+.input-footer > span {
+  font-size: 12px;
+  color: #92969d;
+}
+
+/* Buttons */
+
+button {
+  border: none;
+  border-radius: 9px;
+  padding: 11px 18px;
+  background: #17191c;
+  color: #ffffff;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  transition:
+    opacity 0.2s,
+    transform 0.15s;
+}
+
+button:hover:not(:disabled) {
+  opacity: 0.88;
+  transform: translateY(-1px);
+}
+
+button:disabled {
+  cursor: not-allowed;
+  opacity: 0.35;
+}
+
+button span {
+  margin-left: 8px;
+}
+
+/* =========================
+   ERROR
+========================= */
+
+.error-card {
+  margin-top: 20px;
+  padding: 18px 20px;
+  border: 1px solid #f0d6d6;
+  border-radius: 14px;
+  background: #fff8f8;
+}
+
+.error-card strong {
+  font-size: 13px;
+  color: #a13c3c;
+}
+
+.error-card p {
+  margin: 6px 0 0;
+  font-size: 13px;
+  line-height: 1.5;
+  color: #765555;
+}
+
+/* =========================
+   RESULT PAGE
+========================= */
+
+.result-page {
+  padding: 46px 0 80px;
+}
+
+/* New ticket */
+
+.back-button {
+  margin-bottom: 34px;
+  padding: 9px 14px;
+  background: #17191c;
+  border-radius: 8px;
+  font-size: 12px;
+}
+
+/* Result heading */
+
+.result-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 24px;
+  margin-bottom: 28px;
+}
+
+.result-heading h2 {
+  margin: 0;
+  font-size: 34px;
+  line-height: 1.1;
+  letter-spacing: -1.2px;
+}
+
+.result-heading p {
+  margin: 10px 0 0;
+  color: #656a72;
+  font-size: 14px;
+}
+
+/* Status */
+
+.status {
+  flex-shrink: 0;
+  padding: 8px 12px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 650;
+  white-space: nowrap;
+}
+
+.status.resolved {
+  background: #edf8f1;
+  color: #277344;
+}
+
+.status.escalate {
+  background: #fff3e5;
+  color: #a85b16;
+}
+
+/* =========================
+   ORIGINAL TICKET
+========================= */
+
+.original-ticket {
+  margin-bottom: 24px;
+  padding: 18px 20px;
+  background: #ffffff;
+  border: 1px solid #e1e3e7;
+  border-radius: 12px;
+}
+
+.original-ticket > span {
+  display: block;
+  margin-bottom: 8px;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 1.2px;
+  color: #92969d;
+}
+
+.original-ticket p {
+  margin: 0;
+  color: #4e535b;
+  font-size: 14px;
+  line-height: 1.55;
+}
+
+/* =========================
+   ANALYSIS
+========================= */
+
+.analysis-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 10px;
+  margin-bottom: 24px;
+}
+
+.analysis-grid > div {
+  padding: 15px;
+  border: 1px solid #e5e7ea;
+  border-radius: 11px;
+  background: #ffffff;
+}
+
+.analysis-grid span {
+  display: block;
+  margin-bottom: 7px;
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 1.1px;
+  color: #92969d;
+}
+
+.analysis-grid strong {
+  display: block;
+  font-size: 12px;
+  font-weight: 650;
+  color: #34383e;
+  text-transform: capitalize;
+  overflow-wrap: anywhere;
+}
+
+/* =========================
+   ANSWER
+========================= */
+
+.answer-card {
+  padding: 26px;
+  background: #ffffff;
+  border: 1px solid #e1e3e7;
+  border-radius: 14px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.025);
+}
+
+.answer-card > span,
+.sources-card > span {
+  display: block;
+  margin-bottom: 18px;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 1.3px;
+  color: #92969d;
+}
+
+.answer {
+  border-top: 1px solid #eceef1;
+  padding-top: 20px;
+}
+
+.answer p {
+  margin: 0;
+  color: #555a63;
+  font-size: 14px;
+  line-height: 1.7;
+  white-space: pre-line;
+}
+
+/* =========================
+   SOURCES
+========================= */
+
+.sources-card {
+  margin-top: 20px;
+  padding: 24px 26px;
+  background: #ffffff;
+  border: 1px solid #e1e3e7;
+  border-radius: 14px;
+}
+
+.source-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.source-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 11px;
+  border: 1px solid #e6e8eb;
+  border-radius: 8px;
+  background: #fafafa;
+}
+
+.source-item strong {
+  font-size: 10px;
+  color: #555a62;
+}
+
+.source-item span {
+  font-size: 11px;
+  color: #777c84;
+}
+
+/* =========================
+   FOOTER
+========================= */
+
+footer {
+  width: min(1100px, calc(100% - 56px));
+  margin: 0 auto;
+  padding: 20px 0;
+  border-top: 1px solid #e5e7eb;
+  display: flex;
+  justify-content: space-between;
+  color: #9a9da3;
+  font-size: 11px;
+}
+
+/* =========================
+   MOBILE
+========================= */
+
+@media (max-width: 700px) {
+  .brand {
+    padding: 16px 20px;
+  }
+
+  .prodapt-logo {
+    width: 95px;
+  }
+
+  .brand-divider {
+    height: 28px;
+  }
+
+  .brand h1 {
+    font-size: 13px;
+  }
+
+  .brand p {
+    font-size: 10px;
+  }
+
+  .main {
+    width: calc(100% - 28px);
+  }
+
+  .input-page {
+    padding-top: 48px;
+  }
+
+  .hero h2 {
+    font-size: 42px;
+    letter-spacing: -2px;
+  }
+
+  .analysis-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .result-heading {
+    flex-direction: column;
+  }
+
+  .result-heading h2 {
+    font-size: 30px;
+  }
+}
+
+@media (max-width: 480px) {
+  .brand {
+    gap: 11px;
+  }
+
+  .prodapt-logo {
+    width: 78px;
+  }
+
+  .brand-divider {
+    display: none;
+  }
+
+  .hero h2 {
+    font-size: 36px;
+  }
+
+  .ticket-card,
+  .answer-card,
+  .sources-card {
+    padding: 18px;
+  }
+
+  .analysis-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .input-footer {
+    align-items: flex-end;
+  }
+
+  footer {
+    width: calc(100% - 40px);
+    flex-direction: column;
+    gap: 6px;
+  }
+}
+

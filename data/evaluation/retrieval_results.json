@@ -1,0 +1,758 @@
+{
+  "num_queries": 50,
+  "recall_at_5": 1.0,
+  "mrr_at_5": 0.9373333333333332,
+  "failed_queries": 0,
+  "results": [
+    {
+      "query": "Why can't I get a 5G connection?",
+      "expected": [
+        "KB-5G-001"
+      ],
+      "retrieved": [
+        "CONV-a6779c7302d94a96b36ad2f83581be30",
+        "CONV-6391c57e9218466980792b672ce3393f",
+        "KB-5G-001",
+        "KB-NET-001",
+        "KB-OUTAGE-001"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 0.3333333333333333
+    },
+    {
+      "query": "My phone is not connecting to 5G",
+      "expected": [
+        "KB-5G-001"
+      ],
+      "retrieved": [
+        "KB-5G-001",
+        "KB-NET-001",
+        "KB-OUTAGE-001",
+        "KB-OUTAGE-002",
+        "CONV-06ac2aaee71b48858c41aed6dc0ebe7c"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "My 4G LTE connection is not working properly",
+      "expected": [
+        "KB-5G-002"
+      ],
+      "retrieved": [
+        "KB-5G-002",
+        "KB-NET-001",
+        "KB-OUTAGE-001",
+        "KB-OUTAGE-002",
+        "CONV-fa1ea60cfc134c28b3ac94106fa9c58f"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "I am having problems with LTE connectivity",
+      "expected": [
+        "KB-5G-002"
+      ],
+      "retrieved": [
+        "KB-5G-002",
+        "KB-NET-001",
+        "KB-OUTAGE-001",
+        "KB-OUTAGE-002",
+        "CONV-d617433404a94d44b2b64e96238224e9"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "I cannot log into my telecom account",
+      "expected": [
+        "KB-ACCOUNT-001"
+      ],
+      "retrieved": [
+        "KB-ACCOUNT-001",
+        "CONV-801e03a36141407796fdf64f8b6e0898",
+        "CONV-a3c04d7c50304b2bac6640d3bdd75b39",
+        "CONV-388ffee8175948e8beb3965e62541ac2",
+        "CONV-cf14158cc3904693ad4ea198ccb75250"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "I am unable to access my account",
+      "expected": [
+        "KB-ACCOUNT-001"
+      ],
+      "retrieved": [
+        "KB-ACCOUNT-001",
+        "CONV-b91ca4d90e8e47709c86bf0b48a10400",
+        "CONV-f404487249414261936145d99577977f",
+        "CONV-801e03a36141407796fdf64f8b6e0898",
+        "CONV-2bc4ae6a06ca4aedb2057d56181b7393"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "My mobile data is not working",
+      "expected": [
+        "KB-DATA-001"
+      ],
+      "retrieved": [
+        "KB-DATA-001",
+        "KB-APN-001",
+        "KB-DATA-002",
+        "KB-ROAM-001",
+        "KB-DATA-003"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "I have network signal but mobile internet does not work",
+      "expected": [
+        "KB-DATA-001"
+      ],
+      "retrieved": [
+        "KB-APN-001",
+        "KB-DATA-001",
+        "KB-DATA-002",
+        "KB-DATA-003",
+        "CONV-6654605e0c9c4f86ad611145e63baf29"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 0.5
+    },
+    {
+      "query": "How do I fix my APN settings?",
+      "expected": [
+        "KB-APN-001"
+      ],
+      "retrieved": [
+        "KB-APN-001",
+        "KB-DATA-001",
+        "KB-DATA-002",
+        "KB-DATA-003",
+        "CONV-f1c548373a744773bd7808cf769d03d8"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "My mobile internet is not working because of APN settings",
+      "expected": [
+        "KB-APN-001"
+      ],
+      "retrieved": [
+        "KB-APN-001",
+        "KB-DATA-001",
+        "KB-DATA-002",
+        "KB-DATA-003",
+        "CONV-9a57b26c4a1042d2bf54a824f207a596"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "The amount on my mobile bill is incorrect",
+      "expected": [
+        "KB-BILL-001"
+      ],
+      "retrieved": [
+        "KB-BILL-001",
+        "KB-BILL-002",
+        "CONV-5fa298e5c68c4f41a71e43c49ea268f1",
+        "CONV-ef6997d6dc6d423185c3f88af1e827ee",
+        "CONV-31b036b2a85b48d5bade2dc8cd5dc42d"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "I was charged the wrong amount on my phone bill",
+      "expected": [
+        "KB-BILL-001"
+      ],
+      "retrieved": [
+        "KB-BILL-001",
+        "KB-BILL-002",
+        "CONV-3ff1f8dfae7a41d49fff1c3c5576dfe5",
+        "CONV-c27fcf4ed32440869414264071f888a1",
+        "CONV-680424d147d44e95bc4c1ddb811db737"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "My recharge payment failed",
+      "expected": [
+        "KB-BILL-002"
+      ],
+      "retrieved": [
+        "KB-BILL-002",
+        "CONV-a5681e9586274b439d37a1e480f96576",
+        "CONV-b1b6da564bcc4847a1ff14106b4cfcee",
+        "CONV-b1325a3129e0424d8cc14d82082baad3",
+        "CONV-3fe446cc32f945d7a3a9e8d92673beb2"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "I cannot complete my mobile recharge",
+      "expected": [
+        "KB-BILL-002"
+      ],
+      "retrieved": [
+        "KB-BILL-002",
+        "KB-DATA-003",
+        "CONV-d4af7fd4dd264c09a93f97f23cafa357",
+        "CONV-45bb32c13c4b401890bc641a1d28c9bf",
+        "CONV-b842133a0f7143179f2fe2de7f750b54"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "I cannot make outgoing calls",
+      "expected": [
+        "KB-CALL-001"
+      ],
+      "retrieved": [
+        "KB-CALL-001",
+        "KB-CALL-002",
+        "CONV-c6c315fe7a0a457e9431ee2657894af6",
+        "CONV-37aae1d0cbee411dab11f7f02d98b37a",
+        "CONV-a559ce1da1334a63a6bf787fbfd9e4e4"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "My outgoing calls are not working",
+      "expected": [
+        "KB-CALL-001"
+      ],
+      "retrieved": [
+        "KB-CALL-001",
+        "KB-CALL-002",
+        "CONV-37aae1d0cbee411dab11f7f02d98b37a",
+        "CONV-c6c315fe7a0a457e9431ee2657894af6",
+        "CONV-a2de48afb38243b3a3fedd7b6af44ff1"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "People cannot call me",
+      "expected": [
+        "KB-CALL-002"
+      ],
+      "retrieved": [
+        "KB-CALL-002",
+        "KB-CALL-001",
+        "CONV-814349797b654fa3bc230805810f042f",
+        "CONV-91d2af905dc942728347dcf57e096ee5",
+        "CONV-bee8bdfaee4248cb8a74dbf6b2cacfaa"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "I cannot receive incoming calls",
+      "expected": [
+        "KB-CALL-002"
+      ],
+      "retrieved": [
+        "KB-CALL-002",
+        "KB-CALL-001",
+        "CONV-c6c315fe7a0a457e9431ee2657894af6",
+        "CONV-48838ef2da414f2a9d76d3ab84bc2b9b",
+        "CONV-2280800c7fdf40158cd3c90a0f6dc8e4"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "My internet is extremely slow",
+      "expected": [
+        "KB-DATA-002"
+      ],
+      "retrieved": [
+        "KB-DATA-002",
+        "KB-APN-001",
+        "KB-DATA-003",
+        "KB-DATA-001",
+        "CONV-cdea72c50cdf4641ab968f918bcaf156"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "Mobile data works but the internet speed is very slow",
+      "expected": [
+        "KB-DATA-002"
+      ],
+      "retrieved": [
+        "KB-DATA-002",
+        "KB-APN-001",
+        "KB-DATA-001",
+        "KB-DATA-003",
+        "CONV-1d03b34701e9464685198e3d38e376c8"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "I have used up all my mobile data",
+      "expected": [
+        "KB-DATA-003"
+      ],
+      "retrieved": [
+        "KB-DATA-001",
+        "KB-APN-001",
+        "KB-ROAM-001",
+        "CONV-1f5e333003d34b1d928c51f2629e4f36",
+        "KB-DATA-003"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 0.2
+    },
+    {
+      "query": "My data allowance has been exhausted",
+      "expected": [
+        "KB-DATA-003"
+      ],
+      "retrieved": [
+        "KB-DATA-003",
+        "KB-APN-001",
+        "KB-DATA-001",
+        "KB-DATA-002",
+        "CONV-c1bed1f15f134868b742e4fb8ec937f2"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "My phone says no service",
+      "expected": [
+        "KB-NET-001"
+      ],
+      "retrieved": [
+        "KB-NET-001",
+        "CONV-18e42eabc0654fc6b1410f9af509fbb3",
+        "KB-OUTAGE-002",
+        "KB-OUTAGE-001",
+        "CONV-1d6dc761e62043c7b3c0d72cef453728"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "I have no network signal",
+      "expected": [
+        "KB-NET-001"
+      ],
+      "retrieved": [
+        "KB-NET-001",
+        "KB-DATA-001",
+        "KB-APN-001",
+        "KB-NET-003",
+        "KB-DATA-002"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "My calls keep dropping",
+      "expected": [
+        "KB-NET-003"
+      ],
+      "retrieved": [
+        "CONV-f4efb83a5bbd41c9b7b3266fe9305648",
+        "CONV-3231bd958ddb43ebb478e15a23e012a0",
+        "KB-NET-003",
+        "CONV-0c0b8c6da44b4257a63933d718de11d0",
+        "CONV-01bb5a9e1f7c4d769bb95686e5f3644f"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 0.3333333333333333
+    },
+    {
+      "query": "My phone calls disconnect frequently",
+      "expected": [
+        "KB-NET-003"
+      ],
+      "retrieved": [
+        "KB-NET-003",
+        "CONV-a2de48afb38243b3a3fedd7b6af44ff1",
+        "CONV-7d1ca1d631b24bfabed4044b578140e8",
+        "CONV-4a7c7ca33c0944298a09a7400deac732",
+        "CONV-b7b4920167c8496bb03b9d55ee1821cd"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "People cannot hear me clearly during calls",
+      "expected": [
+        "KB-NET-004"
+      ],
+      "retrieved": [
+        "KB-NET-004",
+        "KB-CALL-002",
+        "KB-CALL-001",
+        "CONV-e33f8ebe90c14324895b2d1f044860f9",
+        "CONV-d8c4a03a83fc4ce38f8b9d51d35fba01"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "My voice calls have very poor quality",
+      "expected": [
+        "KB-NET-004"
+      ],
+      "retrieved": [
+        "KB-NET-004",
+        "CONV-e33f8ebe90c14324895b2d1f044860f9",
+        "CONV-d8c4a03a83fc4ce38f8b9d51d35fba01",
+        "CONV-79a7711b75c2480384f35b5b6afdf426",
+        "KB-NET-003"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "I think there is a mobile network outage",
+      "expected": [
+        "KB-OUTAGE-001"
+      ],
+      "retrieved": [
+        "KB-OUTAGE-001",
+        "KB-NET-001",
+        "KB-OUTAGE-002",
+        "CONV-cf2256962da8470983f8e3c7f728a92b",
+        "CONV-0796ac599630413eadd5cae76f2dfcdd"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "Is there currently an outage affecting my mobile network?",
+      "expected": [
+        "KB-OUTAGE-001"
+      ],
+      "retrieved": [
+        "KB-OUTAGE-001",
+        "KB-NET-001",
+        "KB-OUTAGE-002",
+        "CONV-ce34d9cec2514a6f8f77a6222fac18e5",
+        "CONV-9be850389c8845c78019d965c1ddccb6"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "The network in my area has become very weak",
+      "expected": [
+        "KB-OUTAGE-002"
+      ],
+      "retrieved": [
+        "KB-OUTAGE-002",
+        "KB-NET-001",
+        "KB-OUTAGE-001",
+        "CONV-f03b1e1ee1ba4f4d8d0050131f6e4db0",
+        "CONV-c9d7d551f88c4ed2b8f92efd8ac6697c"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "My region is experiencing network degradation",
+      "expected": [
+        "KB-OUTAGE-002"
+      ],
+      "retrieved": [
+        "KB-OUTAGE-002",
+        "KB-NET-001",
+        "KB-OUTAGE-001",
+        "CONV-eed11d00c92542e388d5007264d22a11",
+        "CONV-32da30d6f0da4f329315874991e12f2e"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "How do I activate a mobile plan?",
+      "expected": [
+        "KB-PLAN-001"
+      ],
+      "retrieved": [
+        "KB-PLAN-001",
+        "KB-DATA-003",
+        "KB-DATA-001",
+        "KB-BILL-001",
+        "KB-ROAM-002"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "I want to activate a new mobile pack",
+      "expected": [
+        "KB-PLAN-001"
+      ],
+      "retrieved": [
+        "KB-PLAN-001",
+        "KB-SIM-002",
+        "KB-DATA-003",
+        "CONV-e550f06e75214541aa0f62a6af7db954",
+        "CONV-117056bf67904ee5be1362a1fb46a7ee"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "My phone service does not work while roaming",
+      "expected": [
+        "KB-ROAM-001"
+      ],
+      "retrieved": [
+        "KB-ROAM-001",
+        "KB-ROAM-002",
+        "CONV-4f546c349db140878dc98580eb24dcd7",
+        "CONV-e8581f29ec3142fd94a9029b2590dff6",
+        "CONV-e8737340ebe04c2b8815093bcca37c92"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "I cannot make calls when I am abroad",
+      "expected": [
+        "KB-ROAM-001"
+      ],
+      "retrieved": [
+        "KB-ROAM-001",
+        "KB-CALL-001",
+        "KB-CALL-002",
+        "CONV-d21eba0ae970423ea69ebf92ea6f98d7",
+        "CONV-71f4da50f9bd4418b687a3d810c2329c"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "I was charged unexpectedly while roaming",
+      "expected": [
+        "KB-ROAM-002"
+      ],
+      "retrieved": [
+        "KB-ROAM-002",
+        "KB-ROAM-001",
+        "CONV-cd22602565b84f799aef13403a21fd19",
+        "CONV-55cabcc79b33409dafa8d9e577abd767",
+        "CONV-94adab8d870844c3bf7db1707f7085f3"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "Why did I receive unexpected roaming charges?",
+      "expected": [
+        "KB-ROAM-002"
+      ],
+      "retrieved": [
+        "KB-ROAM-002",
+        "KB-ROAM-001",
+        "CONV-cd22602565b84f799aef13403a21fd19",
+        "CONV-55cabcc79b33409dafa8d9e577abd767",
+        "CONV-c1f417ae0f07419db0e2e3b1ad0571bf"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "I think someone has accessed my SIM without permission",
+      "expected": [
+        "KB-SEC-001"
+      ],
+      "retrieved": [
+        "KB-SEC-001",
+        "KB-SIM-001",
+        "KB-SIM-002",
+        "CONV-b95375cd1fc646a9a1e1795af0fae722",
+        "CONV-e84943db80ad4077b11ddbf7b6c1b6a2"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "There is suspicious activity on my telecom account",
+      "expected": [
+        "KB-SEC-001"
+      ],
+      "retrieved": [
+        "KB-SEC-001",
+        "KB-ROAM-002",
+        "CONV-351d966d3e004ec9a6eb06f5dbb2f1dc",
+        "CONV-b6a552d70a824a4bb28d2b3a8a1d1905",
+        "CONV-38153036f4d0493188fc58ae405c348e"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "My SIM card is not detected",
+      "expected": [
+        "KB-SIM-001"
+      ],
+      "retrieved": [
+        "KB-SIM-001",
+        "KB-SIM-002",
+        "KB-NET-001",
+        "KB-DATA-001",
+        "KB-SIM-003"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "My phone says there is no SIM card",
+      "expected": [
+        "KB-SIM-001"
+      ],
+      "retrieved": [
+        "KB-SIM-001",
+        "CONV-4550ab6df4f24ed49ae30b1a9474d338",
+        "KB-SIM-002",
+        "KB-NET-001",
+        "KB-DATA-001"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "My SIM activation is failing",
+      "expected": [
+        "KB-SIM-002"
+      ],
+      "retrieved": [
+        "KB-SIM-001",
+        "KB-SIM-002",
+        "KB-SIM-003",
+        "KB-DATA-001",
+        "KB-NET-001"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 0.5
+    },
+    {
+      "query": "I cannot activate my SIM card",
+      "expected": [
+        "KB-SIM-002"
+      ],
+      "retrieved": [
+        "KB-SIM-002",
+        "KB-SIM-001",
+        "KB-SIM-003",
+        "KB-DATA-001",
+        "KB-DATA-003"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "My eSIM activation is not working",
+      "expected": [
+        "KB-SIM-003"
+      ],
+      "retrieved": [
+        "KB-SIM-003",
+        "KB-SIM-002",
+        "KB-SIM-001",
+        "KB-DATA-001",
+        "KB-CALL-002"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "I am having trouble activating my eSIM",
+      "expected": [
+        "KB-SIM-003"
+      ],
+      "retrieved": [
+        "KB-SIM-003",
+        "KB-SIM-002",
+        "KB-SIM-001",
+        "KB-CALL-002",
+        "KB-DATA-001"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "I cannot send or receive SMS messages",
+      "expected": [
+        "KB-SMS-001"
+      ],
+      "retrieved": [
+        "KB-SMS-001",
+        "KB-CALL-002",
+        "CONV-a309a7d743e74b0e9c55ee279be8d60d",
+        "CONV-10e34a6955e04cfc8bf1b37caa159e49",
+        "CONV-f0e0e518a44d4d6d872e1b43b88ca80b"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "My text messages are not working",
+      "expected": [
+        "KB-SMS-001"
+      ],
+      "retrieved": [
+        "KB-SMS-001",
+        "CONV-59db3241fc2c47208b35ac24773285af",
+        "CONV-087d3890b28b4352a94d5710cce6fc7b",
+        "CONV-10e34a6955e04cfc8bf1b37caa159e49",
+        "CONV-651c81c2333641cfb726ffec04909e2c"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "I have a telecom problem and need troubleshooting",
+      "expected": [
+        "KB-TROUBLE-001"
+      ],
+      "retrieved": [
+        "KB-TROUBLE-001",
+        "CONV-5a07eee041df48479b4b745447b7ffe2",
+        "CONV-0092724c53114254b05de60c0624a488",
+        "CONV-402a5907808440158cae5affd3b1f9cf",
+        "CONV-453c898037ea49fe8e28f1e3539d832f"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    },
+    {
+      "query": "I tried troubleshooting but my telecom issue still isn't resolved",
+      "expected": [
+        "KB-TROUBLE-001"
+      ],
+      "retrieved": [
+        "KB-TROUBLE-001",
+        "CONV-0092724c53114254b05de60c0624a488",
+        "CONV-c521697381be495785461b6d74d6b7a1",
+        "CONV-5a07eee041df48479b4b745447b7ffe2",
+        "CONV-673e02d894684c6abb4056a471a07013"
+      ],
+      "recall_at_5": 1.0,
+      "mrr_at_5": 1.0
+    }
+  ]
+}

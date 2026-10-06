@@ -1,0 +1,2295 @@
+[
+  {
+    "source_id": "TICKET-005001",
+    "source_type": "historical_ticket",
+    "title": "Detected Unauthorized Access Attempt on Hospital Network",
+    "content": "Detected Unauthorized Access Attempt on Hospital Network\n\nAn unauthorized access attempt has been detected on the hospital's network, which raises concerns about the security of patient data due to outdated protocols and phishing attempts. Firewall settings have been strengthened, and staff training has been conducted.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "high",
+    "metadata": {
+      "queue": "IT Support",
+      "historical_answer": "Dear [Name], thank you for reporting the unauthorized access attempt on the hospital's network. We appreciate the measures you have taken to strengthen firewall settings and conduct staff training. Could you please provide details of the incident, including the date and time it occurred? I would like to schedule a call at your earliest convenience on [Tel Number] to discuss this matter further.",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Security",
+        "Network",
+        "Virus",
+        "Feedback",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "d9eef19737f2f4d0e96e6de6a2d43931748dafd378c709ada02e1a0a5f3bfd9e"
+  },
+  {
+    "source_id": "TICKET-005002",
+    "source_type": "historical_ticket",
+    "title": "Security Measures for Medical Data on Ubuntu 22.04 LTS",
+    "content": "Security Measures for Medical Data on Ubuntu 22.04 LTS\n\nHi Support Team, I am writing to ask about suggested security measures for protecting sensitive medical data on Ubuntu 22.04 LTS. Given the critical nature of medical data, it is essential to implement robust security measures to safeguard it. Could you advise on the best security practices for Ubuntu 22.04 LTS? Are there particular configurations or software tools you would recommend? I would be grateful for any detailed guidance or suggestions you could offer. Please inform me if you require any additional information from my side. Thanks for your help. I expect a prompt response.",
+    "product": null,
+    "intent": "Request",
+    "severity": "medium",
+    "metadata": {
+      "queue": "Billing and Payments",
+      "historical_answer": "Hello [Name], thank you for contacting us regarding securing medical data on Ubuntu 22.04 LTS. We suggest using full disk encryption and secure authentication methods. You can also utilize software like OpenVPN and configure firewalls for added security. For more precise advice, please share more details about your current setup and needs. I am available to provide more personalized guidance or to discuss further via a call at [Phone Number] if necessary.",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Security",
+        "Technical",
+        "Guidance",
+        "Documentation"
+      ]
+    },
+    "content_hash": "568ec8810c4131ee79d54a7d35f7de85cb13c2ec2e0fcd41dd55ce723260c886"
+  },
+  {
+    "source_id": "TICKET-005003",
+    "source_type": "historical_ticket",
+    "title": "Marketing Campaign Updates",
+    "content": "Marketing Campaign Updates\n\nDear Customer Support, I am contacting you to inquire about the current marketing campaigns for Xbox and Surface Pro products on digital platforms. These campaigns have been ongoing for some time, and I feel they could benefit from a fresh approach to maintain audience engagement. I would like to suggest a few new strategies, such as social media contests, influencer collaborations, and precise advertising campaigns. I believe these methods can enhance brand recognition and boost sales. Would you be able to share your thoughts on this possibility? I would be grateful for your feedback and eagerly await your response. Kind regards, [Your Name]",
+    "product": null,
+    "intent": "Change",
+    "severity": "high",
+    "metadata": {
+      "queue": "Sales and Pre-Sales",
+      "historical_answer": "Dear [Your Name], we thank you for your correspondence concerning the ongoing marketing campaigns for Xbox and Surface Pro products on digital platforms. We appreciate your suggestions for innovative strategies, including social media contests, influencer collaborations, and targeted advertisements. We are willing to explore these ideas further with you. To effectively address your proposals, could you provide more specifics on your suggested initiatives, including the objectives and the targeted audience? We will consider your input and arrange a call at a suitable time to discuss the ensuing steps and implementation plans.",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Marketing",
+        "Feedback",
+        "Strategy",
+        "Product",
+        "Sales"
+      ]
+    },
+    "content_hash": "884eefef128c8b855fa0ea28b9341e7bc83933512dffb62c77837c8eda5dbecd"
+  },
+  {
+    "source_id": "TICKET-005004",
+    "source_type": "historical_ticket",
+    "title": "Concerns About Securing Medical Information",
+    "content": "Concerns About Securing Medical Information\n\nFacing difficulties in securing medical information within our hospital network. The problem might stem from using outdated security measures. Steps like updating firewall configurations and performing initial security checks have been taken, but the issue still persists and needs urgent attention to safeguard patient data. I would greatly appreciate advice on how to establish strong security protocols and resolve this issue as soon as possible.",
+    "product": null,
+    "intent": "Problem",
+    "severity": "medium",
+    "metadata": {
+      "queue": "Product Support",
+      "historical_answer": "Please contact <tel_num> to discuss strategies for implementing robust security measures and resolving the medical data security issue to ensure the confidentiality and integrity of patient data.",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Security",
+        "Network",
+        "Performance",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "fbf0421c5c2bf2f03b15a43d8517abcf7c538487e50570d9917743a98a765e47"
+  },
+  {
+    "source_id": "TICKET-005005",
+    "source_type": "historical_ticket",
+    "title": "Notification of Data Breach Attempt at Hospital Systems",
+    "content": "Notification of Data Breach Attempt at Hospital Systems\n\nOur hospital systems have experienced a data breach attempt. This might have occurred due to outdated software vulnerabilities. We have already updated the software, run antivirus scans, and tightened firewall settings to prevent future incidents. We request your assistance in conducting a thorough investigation and providing recommendations to enhance our security measures.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "medium",
+    "metadata": {
+      "queue": "Technical Support",
+      "historical_answer": "<name> appreciates the report of the data breach attempt at hospital systems. We take this incident very seriously and are willing to assist in conducting a thorough investigation. Please schedule a call at your earliest convenience to discuss the details of the incident and the steps we have taken so far. Kindly let us know a suitable time for the call at <tel_num>. Additionally, we require further information, including the software and antivirus programs used, to provide effective recommendations for enhancing security.",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Security",
+        "Notification",
+        "Alert",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "3ed63c287e489a2bf945c8e544a1643acedb604393ec4c295bc210826ad5c647"
+  },
+  {
+    "source_id": "TICKET-005006",
+    "source_type": "historical_ticket",
+    "title": "",
+    "content": "Dear Customer Support, we are encountering issues with our data analytics tools, specifically with financial discrepancies in our investment predictions. We suspect these might be due to integration problems with SAP ERP and Excel. Despite our efforts to recalibrate data inputs and refresh the software, the problem continues. We have tried several troubleshooting steps, but unfortunately, none have been successful. We would greatly appreciate any assistance you can provide to resolve this matter. Could you please offer some guidance?",
+    "product": null,
+    "intent": "Problem",
+    "severity": "medium",
+    "metadata": {
+      "queue": "Product Support",
+      "historical_answer": "We are happy to help with your integration issues involving SAP ERP and Excel. Could you please provide more details about the discrepancies and the troubleshooting steps you have taken so far? We are happy to discuss this further at a convenient time for you. Please let us know a suitable time for a call, and we will contact you at <tel_num>.",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Bug",
+        "Performance",
+        "IT",
+        "Tech Support",
+        "Documentation"
+      ]
+    },
+    "content_hash": "1a32e57cbc416a6ac4d0c6cce4de64b76080eb9ce13913d8b3ab52be71897f09"
+  },
+  {
+    "source_id": "TICKET-005007",
+    "source_type": "historical_ticket",
+    "title": "Subject: Analysis of System Crash for Data Project",
+    "content": "Subject: Analysis of System Crash for Data Project\n\nA system crash during data analysis has disrupted the investment optimization process. Initial attempts to resolve the issue involved restarting the devices. I am writing to acknowledge this email regarding the system crash in the data analysis project and expressing my regret that restarting the devices did not resolve the issue. I understand the importance of this project and need to get back on track as soon as possible.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "medium",
+    "metadata": {
+      "queue": "Technical Support",
+      "historical_answer": "Dear [Name],<br><br>I am writing to acknowledge your email regarding the system crash that occurred during the data analysis project, which has disrupted the investment optimization process. I am sorry to hear that restarting the devices did not resolve the issue. I understand the importance of this project and need to get back on track as soon as possible.<br><br>To better assist you, could you please provide details about the crash, including any error messages displayed and the exact steps taken leading up to the crash? Additionally, I noticed some unusual system behavior, which might be relevant.",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Crash",
+        "Performance",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "9bd19b8ff3703c2ee5191457d634dfbc7a3fa3d6a568a766d01cb2cfe074c959"
+  },
+  {
+    "source_id": "TICKET-005008",
+    "source_type": "historical_ticket",
+    "title": "Concern About Investment Analysis Tools",
+    "content": "Concern About Investment Analysis Tools\n\nWe have encountered intermittent outages affecting the investment analysis tools, which might be due to overloaded servers. After attempting to reboot the systems and clear the cache, the issues still persist. A notification was sent to the team for assistance. These outages are causing disruptions to our operations and require a prompt resolution. We would appreciate it if you could look into this matter urgently and provide a possible solution soon.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "low",
+    "metadata": {
+      "queue": "Service Outages and Maintenance",
+      "historical_answer": "We received your email regarding the issues with the investment analysis tools and we understand the urgency of the matter. To better assist you, could you please provide more details about the error messages you are receiving and the times when the outages occur? We would also be available to discuss further over a call at your convenience. Please let us know a suitable time to call at <tel_num> for proceeding with the resolution of the issue.",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Outage",
+        "Disruption",
+        "Recovery",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "b2347ca719ee872cb2781086b5a82bd451218389909b52157d72444847d74b18"
+  },
+  {
+    "source_id": "TICKET-005009",
+    "source_type": "historical_ticket",
+    "title": "Medical Data Encryption Malfunction Following Update",
+    "content": "Medical Data Encryption Malfunction Following Update\n\nThe security software experienced a malfunction during the update process. This might be due to outdated dependencies or incorrect configuration. Steps taken included restarting the systems, reviewing the logs, and confirming the settings.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "low",
+    "metadata": {
+      "queue": "General Inquiry",
+      "historical_answer": "Dear <name>, we apologize for the difficulties you're encountering with your medical data encryption software. It seems the security software malfunctioned during the update, and you've already attempted to resolve it by restarting the systems, reviewing the logs, and confirming the settings. To better assist you, could you please share the error messages you're seeing in the logs and the specific version of the software you're currently using? This information will help us diagnose and address the problem more effectively. If necessary, we can arrange a call at <tel_num> to discuss the situation in detail and outline the most appropriate steps to correct the issue with your <acc_num>. Please indicate a suitable time for the call.",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Security",
+        "Bug",
+        "Technical",
+        "Outage",
+        "Crash",
+        "Maintenance",
+        "Backup",
+        "Documentation"
+      ]
+    },
+    "content_hash": "45df63b052be938255a5ab578ba8fb5fb57a892635c46c0ebccd784771a9eb68"
+  },
+  {
+    "source_id": "TICKET-005010",
+    "source_type": "historical_ticket",
+    "title": "Tool System Update Issues",
+    "content": "Tool System Update Issues\n\nMultiple software tools experiencing malfunctions",
+    "product": null,
+    "intent": "Incident",
+    "severity": "high",
+    "metadata": {
+      "queue": "Product Support",
+      "historical_answer": "Apologies for the inconvenience caused by the system update. Could you please provide details on the malfunctioning tools to assist with troubleshooting?",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Bug",
+        "Performance",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "d91d31aae0253a518f6ab07ccf4f42aab565e80e37aa61c1f5cf7f8d3eccb101"
+  },
+  {
+    "source_id": "TICKET-005011",
+    "source_type": "historical_ticket",
+    "title": "",
+    "content": "Could you please assist? We need more information about the issue you are experiencing.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "medium",
+    "metadata": {
+      "queue": "Returns and Exchanges",
+      "historical_answer": "To better assist you, could you please provide more details about the issue you are facing?",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Bug",
+        "Performance",
+        "Documentation",
+        "Feedback"
+      ]
+    },
+    "content_hash": "8ea966fd133fa2bd5b2b7042d0b612f763183b1428fcae207be8cacfcd9cfbe8"
+  },
+  {
+    "source_id": "TICKET-005012",
+    "source_type": "historical_ticket",
+    "title": "Medical Data Storage Payment Options",
+    "content": "Medical Data Storage Payment Options\n\nCould you please inform me about the different payment methods available for securing medical data storage services?",
+    "product": null,
+    "intent": "Request",
+    "severity": "medium",
+    "metadata": {
+      "queue": "Billing and Payments",
+      "historical_answer": "Dear <name>, we provide multiple payment options for securing medical data storage services, such as monthly or annual subscriptions, credit card payments, and bank transfers. You can also reach out to us at <tel_num> for customized payment plans. If you have an existing account with us, <acc_num>, or if you wish to create a new one, please let us know. We would be happy to assist you with the payment process and provide additional information on our services.",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Billing",
+        "Payment",
+        "Security",
+        "Documentation",
+        "Customer"
+      ]
+    },
+    "content_hash": "c9a03d48b5605a7ceec24be506211a2dc74aa35d9e750e9376ff8af91514a9f1"
+  },
+  {
+    "source_id": "TICKET-005013",
+    "source_type": "historical_ticket",
+    "title": "Enhancing Investment Strategies Through Data Analytics",
+    "content": "Enhancing Investment Strategies Through Data Analytics\n\nHello, I have contacted you regarding the use of data analytics to optimize investment strategies. I am keen to learn more about this topic as it can help me make informed decisions and enhance the performance of my portfolio. Specifically, I am interested in knowing the types of data used in investment analytics and how they are applied to optimize investment strategies. I would greatly appreciate any guidance or resources you can provide on this subject. Thank you for your assistance, and I look forward to hearing from you.",
+    "product": null,
+    "intent": "Request",
+    "severity": "medium",
+    "metadata": {
+      "queue": "Customer Service",
+      "historical_answer": "Thank you for reaching out to us regarding the optimization of investment strategies through data analytics. We can provide you with information on how data analytics can inform investment decisions and improve portfolio performance. We use various types of data, including market trends and economic indicators, to optimize investment strategies. We would be happy to discuss this with you further and are available to call at your convenience for a more detailed discussion.",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Feedback",
+        "Performance",
+        "Feature",
+        "Documentation"
+      ]
+    },
+    "content_hash": "486cd3f3edc8d085dfa4680dbe34c8dad95ea8b00965556fa48415179db4a9d2"
+  },
+  {
+    "source_id": "TICKET-005014",
+    "source_type": "historical_ticket",
+    "title": "Airtable Project Management Integration",
+    "content": "Airtable Project Management Integration\n\nSeeking information on integrating the Airtable project management SaaS platform. Would like to know more about the integration process, its benefits, and any potential drawbacks. Appreciate details to help us get started and any support resources available.",
+    "product": null,
+    "intent": "Request",
+    "severity": "medium",
+    "metadata": {
+      "queue": "Customer Service",
+      "historical_answer": "I'm glad to discuss the Airtable integration. Please let me know your available times for a call to go over the details and plan the next steps.",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Feature",
+        "Documentation",
+        "Feedback",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "d1ca96e7b6e3b478256b2b15e7d57326d31aaf25bcd8f4f9289f8c7418a2548e"
+  },
+  {
+    "source_id": "TICKET-005015",
+    "source_type": "historical_ticket",
+    "title": "Available SAP ERP Integration Options",
+    "content": "Available SAP ERP Integration Options\n\nI would like to know more about the integration options for SAP ERP within your project management software as a service. Could you offer additional details on this matter?",
+    "product": null,
+    "intent": "Request",
+    "severity": "high",
+    "metadata": {
+      "queue": "Product Support",
+      "historical_answer": "I will share the details on SAP ERP integration options. Please let me call you at your convenience to go over the specifics.",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Technical",
+        "Integration",
+        "Product",
+        "Feedback"
+      ]
+    },
+    "content_hash": "ecf1b4329704c0742edf896b5906af948781c0dc74dd3296fed92ab7a1d56017"
+  },
+  {
+    "source_id": "TICKET-005016",
+    "source_type": "historical_ticket",
+    "title": "Seeking Assistance",
+    "content": "Seeking Assistance\n\nRecently observed a sharp drop in brand engagement across our digital platforms. This could be related to recent updates on Google Cloud Platform affecting ad performance. Despite adjusting targeting settings and optimizing content, engagement levels remain low.",
+    "product": null,
+    "intent": "Problem",
+    "severity": "high",
+    "metadata": {
+      "queue": "Product Support",
+      "historical_answer": "Need details to assist",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Feedback",
+        "Performance",
+        "Product",
+        "Feature",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "1e9e8e2fa7728b894449686748f02f6ed04d2fe418a8c81629e2e456a0069198"
+  },
+  {
+    "source_id": "TICKET-005017",
+    "source_type": "historical_ticket",
+    "title": "Security Notifications Across Several Systems",
+    "content": "Security Notifications Across Several Systems\n\nReceived multiple security alerts from McAfee and MongoDB. Potential configuration issues suspected. Preliminary troubleshooting included system scans and firewall assessments.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "high",
+    "metadata": {
+      "queue": "Technical Support",
+      "historical_answer": "Please review the case with contact <tel_num> to discuss potential configuration modifications for McAfee and MongoDB systems.",
+      "language": "en",
+      "version": 52,
+      "tags": [
+        "Security",
+        "Alert",
+        "Configuration",
+        "Troubleshooting",
+        "System Scan",
+        "Firewall"
+      ]
+    },
+    "content_hash": "065abf2665c189abf28abb0a4f7311149ad223e4d9e29b8c7d8798870507097b"
+  },
+  {
+    "source_id": "TICKET-005018",
+    "source_type": "historical_ticket",
+    "title": "Issues with Underperforming Marketing Campaigns",
+    "content": "Issues with Underperforming Marketing Campaigns\n\nOur marketing campaigns are not performing well. Despite efforts to adjust our ad spend and update our materials, the results have not improved. This could be due to ineffective targeting or outdated content. We need assistance to resolve this issue and enhance the performance of our campaigns.",
+    "product": null,
+    "intent": "Problem",
+    "severity": "low",
+    "metadata": {
+      "queue": "Product Support",
+      "historical_answer": "Hello, we will assist with your underperforming marketing campaigns. To better understand the issue, we would like to gather more information about your current campaigns, including your target audience, the ad channels you are using, and the metrics you are using to measure performance. Knowing the specific adjustments you've made and the results you are seeing would be very helpful. We can offer guidance on optimizing your targeting and content strategies. If you are available, we would like to schedule a call at your convenience to discuss this further. Please let us know a suitable time.",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Feedback",
+        "Performance",
+        "Feature",
+        "Documentation"
+      ]
+    },
+    "content_hash": "ce4bb105bc4b028dbabf49e7e56759dff82029998a5e8d1233c95030520a5d4c"
+  },
+  {
+    "source_id": "TICKET-005019",
+    "source_type": "historical_ticket",
+    "title": "Inquiry on Tools for Enhancing Data Analytics in Investments",
+    "content": "Inquiry on Tools for Enhancing Data Analytics in Investments\n\nIs it possible to gain valuable insights using data analytics tools to improve investment strategies? We would greatly appreciate your assistance. Thank you!",
+    "product": null,
+    "intent": "Request",
+    "severity": "high",
+    "metadata": {
+      "queue": "Product Support",
+      "historical_answer": "'name', thank you for contacting us. We appreciate your interest in using data analytics tools to enhance your investment strategies. These tools can indeed provide valuable information and support various aspects of optimization. Popular options include portfolio management software and market analysis platforms. To better assist you, could you please provide more details on the specific type of investments you are looking to optimize? We would be happy to discuss this further over the phone. Please let us know your preference.",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Feature",
+        "Feedback",
+        "Sales",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "5b6e11efa7f299121973a1568986f5839af05b02fc5b7a29d328162952372b35"
+  },
+  {
+    "source_id": "TICKET-005020",
+    "source_type": "historical_ticket",
+    "title": "Complete Stagnation in Digital Marketing Initiatives",
+    "content": "Complete Stagnation in Digital Marketing Initiatives\n\nDigital marketing efforts have come to a standstill. Despite attempts to optimize ads and revise content, the results have been unsatisfactory. Assistance is needed to enhance the targeting strategy.",
+    "product": null,
+    "intent": "Problem",
+    "severity": "medium",
+    "metadata": {
+      "queue": "Product Support",
+      "historical_answer": "To assist with improving digital marketing efforts, it would be helpful to better understand the current strategy and targeting approach. Could you provide details on the campaign, including the target audience and goals? Additionally, knowing the specific metrics that indicate underwhelming results would be beneficial. I would prefer to discuss this further over the phone. Please let me know a convenient time to call at <tel_num>.",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Feedback",
+        "Performance",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "14781d8a24e2494f6f54b1de00b2425ca7520725b46a73fc758487dac31d0943"
+  },
+  {
+    "source_id": "TICKET-005021",
+    "source_type": "historical_ticket",
+    "title": "Concern about Data Security",
+    "content": "Concern about Data Security\n\nA potential data breach has been identified, which may have affected patient records. This could be due to outdated software vulnerabilities. After reviewing security protocols and temporarily reinforcing firewalls, the issue still persists. Urgent action is needed to protect sensitive information and prevent further damage.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "high",
+    "metadata": {
+      "queue": "Technical Support",
+      "historical_answer": "We have received your email about the data security issue. The security team will be assigned to investigate the cause and implement the necessary patches and updates. Please provide details on the outdated software vulnerabilities that were identified. We will also schedule a call to discuss the required actions.",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Security",
+        "Virus",
+        "IT",
+        "Alert"
+      ]
+    },
+    "content_hash": "f4e132880c16908bd5b1f51eb83c54e922ccf8000f3d153b0ee827ac9d38bc13"
+  },
+  {
+    "source_id": "TICKET-005022",
+    "source_type": "historical_ticket",
+    "title": "Support Request for Addressing Software Integration Issues",
+    "content": "Support Request for Addressing Software Integration Issues\n\nEncountered a significant software integration failure that is leading to discrepancies in project data across various platforms. The recent API updates seem to be the potential source of conflict. Despite efforts to resolve the issue by clearing caches and restarting services, the problem continues to persist and requires urgent attention.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "high",
+    "metadata": {
+      "queue": "Technical Support",
+      "historical_answer": "Please review the software integration issue and contact us at <tel_num> to discuss and schedule a resolution.",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Bug",
+        "Performance",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "c8596548113ee321504c001ec8d97ea6aa4f2b8a9c35bf8348889638e17e88ea"
+  },
+  {
+    "source_id": "TICKET-005023",
+    "source_type": "historical_ticket",
+    "title": "Ensuring Compliance for Medical Data Security",
+    "content": "Ensuring Compliance for Medical Data Security\n\nLooking for assistance with securing access to medical data in Outlook 2021. Could you provide guidance on the necessary steps to ensure our systems meet the required compliance standards? It is crucial to protect sensitive patient information by ensuring the software is up to date with the latest security patches. Please provide detailed instructions and recommend any available resources for further learning. Your help is greatly appreciated, and I look forward to hearing from you soon.",
+    "product": null,
+    "intent": "Request",
+    "severity": "high",
+    "metadata": {
+      "queue": "Technical Support",
+      "historical_answer": "Thank you for your concern regarding securing medical data. To ensure compliance, we recommend enabling encryption and two-factor authentication in Outlook 2021. Please regularly update the software to the latest security patches. For detailed instructions, please visit our website or contact us at <tel_num> to schedule a call. Additional resources for learning are also available. Please let us know a suitable time for a call to discuss your specific requirements and provide personalized guidance on securing medical data.",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Security",
+        "Compliance",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "09669f53a23482191bf9d33a2d3a44d046e2b4839f52d525963c045d27eb2f4e"
+  },
+  {
+    "source_id": "TICKET-005024",
+    "source_type": "historical_ticket",
+    "title": "Update Server Configuration",
+    "content": "Update Server Configuration\n\nHi customer support, I am writing to request an update on server configurations to improve performance during peak usage times. The current configuration is causing slow loading times and negatively impacting user experience. I would like to request that server resources be increased to handle high traffic. This could include upgrading RAM, CPU, and adding a server cluster. I would appreciate it if the update could be done without affecting the existing services. Please let me know.",
+    "product": null,
+    "intent": "Change",
+    "severity": "medium",
+    "metadata": {
+      "queue": "Service Outages and Maintenance",
+      "historical_answer": "Hello, thank you for reaching out to us regarding the server configuration update. We understand the importance of enhancing performance during peak usage times. To better assess your request, could you please provide us with information on the current server setup and usage patterns? We will review the possibilities of upgrading RAM, CPU, and adding a server cluster without affecting existing services. If needed, we can schedule a call at <tel_num> to discuss at your convenience.",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Performance",
+        "Maintenance",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "1e4546a052dcfefda1263ca4752fd9fc71865743c9bc7163d907db260ae84bf8"
+  },
+  {
+    "source_id": "TICKET-005025",
+    "source_type": "historical_ticket",
+    "title": "Detail Integration for KNIME Mailchimp",
+    "content": "Detail Integration for KNIME Mailchimp\n\nCould you provide detailed information on SaaS solutions that integrate KNIME Mailchimp? I need specifics about the integration process and how often data is synced. Also, what are the setup and configuration requirements to ensure the integration works properly?",
+    "product": null,
+    "intent": "Request",
+    "severity": "medium",
+    "metadata": {
+      "queue": "Sales and Pre-Sales",
+      "historical_answer": "Please provide the integration details and requirements for KNIME Mailchimp. This will allow us to review and respond accordingly.",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Feature",
+        "Documentation",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "eadd3a4552389b37e1091aa6ff246fa4ede973dc52a1adbd829033c22cbbd425"
+  },
+  {
+    "source_id": "TICKET-005026",
+    "source_type": "historical_ticket",
+    "title": "Social Media Engagement Drop",
+    "content": "Social Media Engagement Drop\n\nThe agency has recently observed a significant decline in social media engagement metrics. This might be due to recent algorithm changes. So far, they have adjusted posting times and increased content variety to address the issue. Although engagement metrics have improved, the agency is seeking assistance to identify the root cause of the issue and explore additional strategies to enhance social media engagement. They would like to request guidance on better adapting to the algorithm changes and improving engagement.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "medium",
+    "metadata": {
+      "queue": "Product Support",
+      "historical_answer": "Acknowledging your request for assistance regarding the sudden drop in social media engagement metrics. To better understand the issue, could you provide specific details on which engagement metrics dropped and the time frame in which this occurred? Also, it would be helpful to know about any recent algorithm changes and the adjustments made so far. I would be happy to discuss and explore additional strategies to improve social media engagement. We could possibly schedule a call at your convenience to discuss further.",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Performance",
+        "Feedback",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "87b29fb205c4babddf30f87fa337a58a3e7031c59bed5bf0f3106c00fe3ef423"
+  },
+  {
+    "source_id": "TICKET-005027",
+    "source_type": "historical_ticket",
+    "title": "Urgent: Major Down Time on SaaS Platform",
+    "content": "Urgent: Major Down Time on SaaS Platform\n\nA critical outage has been reported on the SaaS platform, affecting several integrations. It appears recent updates might be the cause of the API connection problems. Attempts to revert the changes and reset configurations have been unsuccessful.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "high",
+    "metadata": {
+      "queue": "Product Support",
+      "historical_answer": "We have received an email regarding the critical outage on the SaaS platform. To assist further, could you please provide details on the recent updates and any error messages you are seeing? Additionally, we would like to schedule a call to discuss the issue. I would be available at a specific time today and can be reached at <tel_num> for further troubleshooting.",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Outage",
+        "Disruption",
+        "Recovery",
+        "Maintenance",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "6d225c78fd5c9ac03feaad8f26a09cad9c05b8439758413240f7ccf295db44c2"
+  },
+  {
+    "source_id": "TICKET-005028",
+    "source_type": "historical_ticket",
+    "title": "Unauthorised Access Attempts on Medical Systems",
+    "content": "Unauthorised Access Attempts on Medical Systems\n\nExperienced unauthorised access attempts on medical data systems. Might have occurred due to outdated security protocols. Despite updating the software, the issue still persists and requires assistance.",
+    "product": null,
+    "intent": "Problem",
+    "severity": "low",
+    "metadata": {
+      "queue": "General Inquiry",
+      "historical_answer": "Please investigate the issue and provide details of the attempts. Assistance is needed.",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Security",
+        "Virus",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "fcae349c52624b9c1bce7f7db29ab60aa304d55508a4f351be06c4e728ac8221"
+  },
+  {
+    "source_id": "TICKET-005029",
+    "source_type": "historical_ticket",
+    "title": "Notification of Security Incident for Customer Support",
+    "content": "Notification of Security Incident for Customer Support\n\nCustomer Support, please note a security incident has been reported where potentially sensitive medical data within hospital systems might have been exposed. This issue could be due to outdated software vulnerabilities or misconfigured settings. We have attempted to reset security protocols and applied available patches, but the issue persists. We kindly request your assistance in resolving this matter as soon as possible to ensure the security integrity of our systems. Please inform us of the next steps to be taken. Thank you.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "high",
+    "metadata": {
+      "queue": "Technical Support",
+      "historical_answer": "Thank you for reporting the security incident to us. We take this matter very seriously and are committed to resolving it promptly. To better assist you, we need more details on the outdated software and misconfigured settings mentioned. Could you please provide us with a detailed description of the incident and the steps you have taken so far? We would also like to schedule a call to discuss this further. I am available at <tel_num> at your convenience. Our goal is to resolve the issue as soon as possible to ensure the security integrity of systems specifically <acc_num>. Thank you.",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Security",
+        "Notification",
+        "IT",
+        "Tech Support",
+        "Bug",
+        "Performance"
+      ]
+    },
+    "content_hash": "818d22d9795292e79f7dda54d3d7ba5cf4d2491f1766f0f8c88b19382a0e689a"
+  },
+  {
+    "source_id": "TICKET-005030",
+    "source_type": "historical_ticket",
+    "title": "Issue with Latest Invoice Billing",
+    "content": "Issue with Latest Invoice Billing\n\nFaced an unexpected billing error with the recent invoice, which might be related to a synchronization problem. After reviewing and reconciling transactions, the discrepancy has been resolved. Urgent assistance is needed to resolve this issue to avoid any complications.",
+    "product": null,
+    "intent": "Problem",
+    "severity": "medium",
+    "metadata": {
+      "queue": "Billing and Payments",
+      "historical_answer": "Please review the recent invoice <acc_num> and contact us to discuss the discrepancy to resolve the issue promptly and avoid further complications.",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Billing",
+        "Payment",
+        "Refund",
+        "Account",
+        "Performance"
+      ]
+    },
+    "content_hash": "4f153bc51294805b96777196fc53675244e53fc2adf2aad70e0e780f9f2093fb"
+  },
+  {
+    "source_id": "TICKET-005031",
+    "source_type": "historical_ticket",
+    "title": "Possible Security Compromise Detected",
+    "content": "Possible Security Compromise Detected\n\nA potential security compromise has been identified due to a suspected data vulnerability. It is possible that an internal hacker exploited misconfigured security settings. Initial steps included reviewing network scans and access logs, with security configurations temporarily modified. The issue is under investigation to determine the root cause and to establish a permanent fix. Please inform us if any further information or assistance is required during this process.",
+    "product": null,
+    "intent": "Problem",
+    "severity": "high",
+    "metadata": {
+      "queue": "Technical Support",
+      "historical_answer": "<name> thanks you for informing us about the suspected security issue. We acknowledge that our team is actively investigating the cause and working towards a lasting solution. If you have any questions or need support during this process, please do not hesitate to contact us. We are ready to offer guidance and assistance as needed. Kindly let us know if you require additional details or wish to discuss specific concerns further. If necessary, we can arrange a call at <tel_num>.",
+      "language": "en",
+      "version": 52,
+      "tags": [
+        "Security",
+        "Outage",
+        "Disruption",
+        "Investigation"
+      ]
+    },
+    "content_hash": "594cd42131ed756b13b0e98d851764d691f27eb4e2ec98c19c7be9134173065c"
+  },
+  {
+    "source_id": "TICKET-005032",
+    "source_type": "historical_ticket",
+    "title": "Concerns About Inaccurate Investment Predictions",
+    "content": "Concerns About Inaccurate Investment Predictions\n\nHello Customer Support, <br><br>I am contacting you to address an issue with the investment predictions service. Recently, the predictions have shown inaccuracies, leading to worry. I believe a potential disturbance in the data feed might be the cause of this problem. <br><br>I have attempted to resolve the issue myself by restarting the analytics system and verifying the data sources, yet the problem continues. I urgently request your assistance to investigate and address this matter. <br><br>Here are the specifics of the problem: <br>- Current Issue: The investment predictions are now inaccurate. <br>- Possible Cause: A potential data feed disruption. <br>- Steps Taken: I restarted the analytics system and checked the data sources, but the problem has not been resolved. <br><br>Could you kindly look into this and provide a solution? If you need further information from my side, please let me know. <br><br>I thank you for your attention to this issue and look forward to your prompt response. <br><br>Sincerely, <br>[Your Name]",
+    "product": null,
+    "intent": "Problem",
+    "severity": "medium",
+    "metadata": {
+      "queue": "Technical Support",
+      "historical_answer": "Hello [Your Name], thank you for bringing the issue with the inaccurate investment predictions to our attention. We apologize for any concern this has caused. We will look into this matter urgently and consider the possibility of a data feed disruption. Could you please specify which investment types and time periods are affected by the inaccuracies? I might need to contact you at [tel_num] to discuss further, please be available at your convenience. We will work to resolve the issue as swiftly as possible and appreciate your patience.",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Technical",
+        "Bug",
+        "Performance",
+        "Disruption",
+        "Resolution",
+        "Feedback"
+      ]
+    },
+    "content_hash": "79c07c328e6f3506c16889dc6d8e5ccfa06b6d6029a6b87fc4a9df0f4a849713"
+  },
+  {
+    "source_id": "TICKET-005033",
+    "source_type": "historical_ticket",
+    "title": "Enhancing Security for Medical Data with Norton 360 Solutions",
+    "content": "Enhancing Security for Medical Data with Norton 360 Solutions\n\nI require assistance in securing medical data using Norton 360 healthcare systems. Could you provide details on the best practices and features to ensure compliance and protection?",
+    "product": null,
+    "intent": "Request",
+    "severity": "medium",
+    "metadata": {
+      "queue": "Technical Support",
+      "historical_answer": "I am glad to assist you in securing medical data with Norton 360 solutions for healthcare systems. To ensure compliance and protection, I recommend implementing the following practices and features. First, ensure that all systems are updated to the latest version of Norton 360, which includes advanced threat protection and encryption. Utilize a password manager to securely store and manage passwords for users. Additionally, enable two-factor authentication to add an extra layer of security. Furthermore, regularly back up data to safeguard against data loss. ",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Security",
+        "Feature",
+        "Documentation"
+      ]
+    },
+    "content_hash": "72a607dc3b2bdce430578e7a16d96c70ed2b6dde17be7882c7bba7a9dccac9bd"
+  },
+  {
+    "source_id": "TICKET-005034",
+    "source_type": "historical_ticket",
+    "title": "Exploring Integration Capabilities Between Cassandra 4.0 and Microsoft Word",
+    "content": "Exploring Integration Capabilities Between Cassandra 4.0 and Microsoft Word\n\nI am interested in learning more about the integration possibilities between Cassandra 4.0 and Microsoft Word. Could you provide detailed information on this topic? I would greatly appreciate any details you can offer regarding compatibility and potential applications. Thank you for your assistance, and I look forward to hearing from you soon.",
+    "product": null,
+    "intent": "Request",
+    "severity": "medium",
+    "metadata": {
+      "queue": "Product Support",
+      "historical_answer": "I would be happy to discuss the integration of Cassandra 4.0 with Microsoft Word. Please allow me to call you at your convenience to provide the necessary information.",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Feature",
+        "Documentation",
+        "Feedback",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "084daaad2fb09d705d7914ddddb07beeb7fb842cecbb53c4034edc83c2eb268e"
+  },
+  {
+    "source_id": "TICKET-005035",
+    "source_type": "historical_ticket",
+    "title": "Expanding Brand Presence",
+    "content": "Expanding Brand Presence\n\nCustomer Support, exploring digital strategies to aid brand growth and services. Kindly furnish details on the services you offer to assist businesses in their growth journey. I am especially keen on understanding your digital marketing approach and how you measure the success of your campaigns. Additionally, could you share some case studies or testimonials from previous clients for a better review? I look forward to your response and appreciate your assistance. Regards, [Your Name]",
+    "product": null,
+    "intent": "Request",
+    "severity": "high",
+    "metadata": {
+      "queue": "Product Support",
+      "historical_answer": "<name> provides a range of digital strategies for brand growth, including social media management and content creation. We would be happy to discuss this further. Please let us know a convenient time to call at <tel_num> to provide you with more information and answer any questions you may have.",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Feedback",
+        "Sales",
+        "Marketing",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "ca338ca131d146f455b948aa18beab13a1317411522ea4551bc3d964c344ac1a"
+  },
+  {
+    "source_id": "TICKET-005036",
+    "source_type": "historical_ticket",
+    "title": "Strategies for Brand Expansion Through Digital Means",
+    "content": "Strategies for Brand Expansion Through Digital Means\n\nCould you provide more details on digital strategies that enhance brand expansion and the related services you offer? I am keen to learn about your approach.",
+    "product": null,
+    "intent": "Request",
+    "severity": "medium",
+    "metadata": {
+      "queue": "Customer Service",
+      "historical_answer": "Our team provides customized digital strategies for brand expansion, including social media marketing and SEO services. Please find the details via email.",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Feedback",
+        "Sales",
+        "Feature",
+        "Documentation"
+      ]
+    },
+    "content_hash": "692fc41da5285b938f467ce83674168f03ac35ea676f4b54a045a2ceba3c909b"
+  },
+  {
+    "source_id": "TICKET-005037",
+    "source_type": "historical_ticket",
+    "title": "Problem with Delayed Payroll Processing This Month",
+    "content": "Problem with Delayed Payroll Processing This Month\n\nWe have received complaints about delayed payroll processing. There might be a system glitch causing this issue. We have reviewed the software and checked the employee data but have not found a solution yet.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "medium",
+    "metadata": {
+      "queue": "Human Resources",
+      "historical_answer": "We are investigating the problem. Please provide the affected payroll dates and any relevant error messages to assist us.",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "HR",
+        "Employee",
+        "IT",
+        "Tech Support",
+        "Performance",
+        "Disruption"
+      ]
+    },
+    "content_hash": "b0168ac45a66521e0d7063ec6c756b38dc7c7f1779aa9985c8447eeb90c74f94"
+  },
+  {
+    "source_id": "TICKET-005038",
+    "source_type": "historical_ticket",
+    "title": "Problem with WhatsApp Desktop",
+    "content": "Problem with WhatsApp Desktop\n\nExperienced technical difficulties during the WhatsApp Desktop marketing campaign coordination call. The issue might have arisen from software updates. I have tried reinstalling the application and rebooting my system, but the problem still persists. Please assist in resolving this matter.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "medium",
+    "metadata": {
+      "queue": "Technical Support",
+      "historical_answer": "Dear [Name], we acknowledge the issue you experienced with WhatsApp Desktop during your marketing campaign coordination call. We apologize for the inconvenience. To better assist you, could you please provide more details about the technical issues you are experiencing, including any specific error messages or symptoms? Additionally, could you provide the version of WhatsApp Desktop you are using, your operating system, and any other relevant information? We are happy to help troubleshoot and provide alternative solutions to resolve the matter. Thank you.",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Bug",
+        "Performance",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "ef503bffa2f62945c548d070d29b9aaba1e63cc1426e9fbc20de7ca3f25cffef"
+  },
+  {
+    "source_id": "TICKET-005039",
+    "source_type": "historical_ticket",
+    "title": "Concern About Monthly Invoices",
+    "content": "Concern About Monthly Invoices\n\nDear Customer Support, we have noticed a billing discrepancy in our recent monthly invoice. This issue might have arisen due to the recent system update. After reviewing the transaction logs, we found that the problem is related to the user's account settings. However, we need your assistance to resolve this matter. The discrepancy is causing confusion among our users, and we would greatly appreciate your help in investigating and resolving it as soon as possible. Could you please provide more details about the discrepancy, including the date and amount on the invoice, so we can address this issue promptly? For further discussion, please contact us at <tel_num>. Thank you for bringing this to our attention, and we look forward to resolving it.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "medium",
+    "metadata": {
+      "queue": "Billing and Payments",
+      "historical_answer": "Hello, we are investigating the billing discrepancy you reported regarding your monthly invoices. To assist us further, could you please provide details about the discrepancy, including the date and the amount on the invoice in question <acc_num>? We will provide a solution as soon as possible. If you need to discuss this further, please contact us at <tel_num>. Thank you for bringing this to our attention.",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Billing",
+        "Account",
+        "Payment",
+        "Disruption",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "17961b87c07747baa2bbba19d08bcc452c5aede3dbe1d26da2afb7d3b86fd0e4"
+  },
+  {
+    "source_id": "TICKET-005040",
+    "source_type": "historical_ticket",
+    "title": "Unauthorised Access Incidents on Medical Data Systems",
+    "content": "Unauthorised Access Incidents on Medical Data Systems\n\nThere have been unauthorized access incidents. Updated antivirus software has run security scans.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "low",
+    "metadata": {
+      "queue": "Technical Support",
+      "historical_answer": "Thank you for taking immediate action by updating the antivirus software and running security scans. Please investigate the unauthorized access incidents on the medical data systems. Kindly provide details on the incidents, including the dates and times they occurred, so we can discuss the next steps at a suitable time.",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Security",
+        "Virus",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "36627aa9000ce8962f71ddaf61a62ab7888fd916f335e1e9adf6628b8e652af3"
+  },
+  {
+    "source_id": "TICKET-005041",
+    "source_type": "historical_ticket",
+    "title": "Incorrect Charge on Most Recent Invoice",
+    "content": "Incorrect Charge on Most Recent Invoice\n\nAn incorrect charge was issued due to a miscalculation in campaign costs after the billing software was updated. Discrepancies still exist, necessitating manual reconciliation.",
+    "product": null,
+    "intent": "Problem",
+    "severity": "high",
+    "metadata": {
+      "queue": "Billing and Payments",
+      "historical_answer": "Dear [name], we apologize for the incorrect charge on your most recent invoice. An error in the miscalculation has been noted. We will review your account [acc_num] to resolve the discrepancy. Please allow us time to investigate and we will update you shortly.",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Billing",
+        "Refund",
+        "Payment",
+        "Disruption"
+      ]
+    },
+    "content_hash": "7f7cefc55dd98278694145f93497407bc7cd8479cb213ea40fbdec22aa7bf937"
+  },
+  {
+    "source_id": "TICKET-005042",
+    "source_type": "historical_ticket",
+    "title": "Request for Security Protocols",
+    "content": "Request for Security Protocols\n\nTo Customer Support, I am writing to request the enhancement of security protocols for medical data across the software and hardware in the hospital's environment. Security of medical data is of the utmost importance, and I must ensure that all necessary measures are taken to protect it. I would like to request the implementation of end-to-end encryption for medical data during transit and at rest. Additionally, I would like to request that regular security audits and penetration testing be conducted to identify any vulnerabilities.",
+    "product": null,
+    "intent": "Change",
+    "severity": "high",
+    "metadata": {
+      "queue": "Customer Service",
+      "historical_answer": "Please review the security request and contact <tel_num> to discuss the feasibility and implementation details for enhancing the security protocols for medical data. <acc_num>",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Security",
+        "IT",
+        "Tech Support",
+        "Hardware",
+        "Performance"
+      ]
+    },
+    "content_hash": "94c619ef97a9d0641fbabfa718e723fe5787b0866f7098eca4774f18a839f6c6"
+  },
+  {
+    "source_id": "TICKET-005043",
+    "source_type": "historical_ticket",
+    "title": "Technical Problem with Investment Optimization Tool",
+    "content": "Technical Problem with Investment Optimization Tool\n\nThe investment optimization tool has experienced a crash during data processing, which we suspect is due to server overload. Attempts to resolve the issue by rebooting the TP-Link switch and restarting Apache Hadoop have not been successful. The tool continues to crash while processing a large dataset, even after restarting services. We would appreciate your prompt assistance in resolving this issue.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "high",
+    "metadata": {
+      "queue": "Technical Support",
+      "historical_answer": "We are investigating the technical problem with the investment optimization tool. To troubleshoot, we would like to schedule a call to discuss the large dataset being processed and the current server load. Please let us know a convenient time for a call, and we can contact you at <tel_num>.",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Bug",
+        "Crash",
+        "Performance",
+        "Network",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "8fc6da39fd6443cb2b168afc0252dcb381255107bfc547b0967c33343ccaf966"
+  },
+  {
+    "source_id": "TICKET-005044",
+    "source_type": "historical_ticket",
+    "title": "System Update, Multiple Software Applications Failed Secure Medical Data",
+    "content": "System Update, Multiple Software Applications Failed Secure Medical Data\n\nDuring the system update, several software applications experienced issues with secure medical data. Attempts to reinstall security updates were unsuccessful.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "low",
+    "metadata": {
+      "queue": "Sales and Pre-Sales",
+      "historical_answer": "I will draft an acknowledgment email regarding the issue where multiple software applications failed during the secure medical data update. I understand that the security updates reinstallation attempts were not successful. I would appreciate assistance in resolving this matter as soon as possible.<br><br>To better understand the issue, could you please provide information on the software applications that were affected and any error messages received? Additionally, knowing the version of the operating system used would be helpful.<br><br>If",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Bug",
+        "Security",
+        "IT",
+        "Tech Support",
+        "Performance",
+        "Disruption"
+      ]
+    },
+    "content_hash": "c19f96633f5e4f19fa0f4ab2315e111468689b76b8047d53b888eb93444d9ec9"
+  },
+  {
+    "source_id": "TICKET-005045",
+    "source_type": "historical_ticket",
+    "title": "Request for Data Analytics Support",
+    "content": "Request for Data Analytics Support\n\nIs it possible to get details on data analytics services that can optimize investments? Thank you.",
+    "product": null,
+    "intent": "Request",
+    "severity": "medium",
+    "metadata": {
+      "queue": "Customer Service",
+      "historical_answer": "Dear [Name], we appreciate your interest in our data analytics services for optimizing investments. Our team offers tailored solutions to help clients make informed decisions. For further discussion, please contact us at [Tel Num].",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Feedback",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "e98d147cac6915918fe5699bf264fe00a28f1f8cab4a275ed35e7dfc964e1370"
+  },
+  {
+    "source_id": "TICKET-005046",
+    "source_type": "historical_ticket",
+    "title": "Discrepancies in Billing for Integrated Products",
+    "content": "Discrepancies in Billing for Integrated Products\n\nPreparing a report on billing discrepancies impacting several integrated products. The issue may be due to API synchronization errors with the payment gateway on the SaaS platform. Attempts to resolve the problem included resetting payment modules and verifying account credentials, but the issue remains unresolved. Your assistance in investigating this matter and providing a prompt resolution would be greatly appreciated.",
+    "product": null,
+    "intent": "Problem",
+    "severity": "medium",
+    "metadata": {
+      "queue": "Billing and Payments",
+      "historical_answer": "We received your email concerning billing discrepancies across integrated products, which may be related to API sync errors. We will investigate this issue. Please allow us some time to review account <acc_num>. For further discussion, please contact us at <tel_num> soon.",
+      "language": "en",
+      "version": 52,
+      "tags": [
+        "Billing",
+        "Payment",
+        "Account",
+        "Disruption",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "b9d75f7d548d310ca126a35c40ff6c0411a53a3170ca7d96b930df6cada511d5"
+  },
+  {
+    "source_id": "TICKET-005047",
+    "source_type": "historical_ticket",
+    "title": "Reported Unplanned Service Interruption Today",
+    "content": "Reported Unplanned Service Interruption Today\n\nHello Customer Support,\\n\\nI am contacting you to report an unexpected service outage that has severely impacted our operations. The cause of the outage is currently under investigation, as we suspect it may have been due to an overload or a technical malfunction.\\n\\nSteps taken so far include restarting the service, reviewing logs for errors, and monitoring system performance. Despite these efforts, the issue persists and we require additional support to address it.\\n\\nPlease find below a summary of the situation:\\n\\n**Incident Summary:** The system failed unexpectedly, leading to a decline in productivity and operational efficiency.\\n\\n**Possible Cause:** Our team suspects an overload or a technical glitch could be to blame, but definitive proof is still needed.\\n\\n**Actions Taken:** Our team has attempted to restart the service, reviewed logs for any errors, and monitored performance to identify any potential problems. However, the issue remains unresolved.\\n\\nI would greatly appreciate a prompt resolution to this issue. Could you schedule a call at your earliest convenience to discuss this further? Additionally, could you kindly confirm my account number [acc_num] and the precise time the outage occurred? This information would be invaluable in diagnosing the problem and resolving it swiftly.\\n\\nThank you for your immediate attention to this matter.\\n\\nBest regards,\\n[Your Name]",
+    "product": null,
+    "intent": "Incident",
+    "severity": "high",
+    "metadata": {
+      "queue": "Service Outages and Maintenance",
+      "historical_answer": "Dear [Your Name], thank you for reporting the unexpected service outage. I regret the inconvenience this has caused. Our team would like to schedule a call to thoroughly discuss the issue. Please confirm your availability for a call at your convenience. Meanwhile, could you also confirm your account number [acc_num] and the exact time the outage began? This information will assist us in investigating the problem and working towards a swift resolution. I appreciate your prompt response and will be in touch soon. Please let me know a suitable time for the call at [tel_num].",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Outage",
+        "Incident",
+        "Technical",
+        "Resolution",
+        "Customer",
+        "Documentation",
+        "Account",
+        "Feedback"
+      ]
+    },
+    "content_hash": "38a74470019941ee252d873f486f7f83d24aa3dab4c1aef97ca92399a76b0e7e"
+  },
+  {
+    "source_id": "TICKET-005048",
+    "source_type": "historical_ticket",
+    "title": "Trouble with Analytics System",
+    "content": "Trouble with Analytics System\n\nThe analytics system unexpectedly crashed, which has disrupted the investment optimization processes. This crash might be due to recent data load updates. Efforts to resolve the issue by rebooting the systems, rerunning data pipelines, and verifying configurations have not been successful. Urgent assistance is required to prevent further disruptions and potential financial losses. Please investigate the matter and provide a solution as soon as possible.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "high",
+    "metadata": {
+      "queue": "Product Support",
+      "historical_answer": "Please investigate the issue with the analytics system immediately. Kindly provide system logs and details about the data load updates to help analyze the situation and determine the appropriate next steps for a prompt resolution.",
+      "language": "en",
+      "version": 52,
+      "tags": [
+        "Crash",
+        "Disruption",
+        "Performance",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "d3a5b146f8ca99ac8b21658d087fcc878ca69a64bd76986b27d5fc64fdb244ed"
+  },
+  {
+    "source_id": "TICKET-005049",
+    "source_type": "historical_ticket",
+    "title": "",
+    "content": "Dear Customer Support, we are experiencing unexpected system downtime during the data analytics processing for investment optimization. Possible causes could include recent software updates or server overload. Despite our efforts to restart services and roll back updates, the issue persists. We would greatly appreciate your urgent look into this matter to provide a solution and get our systems back online. The downtime is significantly impacting our operations and delaying resolution.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "high",
+    "metadata": {
+      "queue": "IT Support",
+      "historical_answer": "Dear [Name], we have received your email regarding the system downtime during data analytics processing. We will investigate this matter urgently and review the details provided to offer a prompt response and plan actions to rectify the situation as soon as possible.",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Outage",
+        "Disruption",
+        "Maintenance",
+        "Performance",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "48374e46336e287f9182cd418e3e8608c9ed09dba44ed1770bffac75c3d4c95b"
+  },
+  {
+    "source_id": "TICKET-005050",
+    "source_type": "historical_ticket",
+    "title": "Urgent Enhancement of Data Analytics Tools",
+    "content": "Urgent Enhancement of Data Analytics Tools\n\nRequesting improvements in data analytics tools for better investment optimization and performance tracking. Current tools are insufficient for providing the necessary insights required for informed decision-making. Desiring advanced features such as real-time data tracking, customizable dashboards, and integration with investment platforms. These enhancements would significantly improve the investment experience and enable more informed decisions.",
+    "product": null,
+    "intent": "Change",
+    "severity": "medium",
+    "metadata": {
+      "queue": "Product Support",
+      "historical_answer": "Reviewing the request for enhanced data analytics tools and integrations immediately.",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Feature",
+        "Performance",
+        "Feedback"
+      ]
+    },
+    "content_hash": "d5fa2b84fecfa71c0d3f11f7736a32626db9167d863ddf9d6c138a54ce820ef4"
+  },
+  {
+    "source_id": "TICKET-005051",
+    "source_type": "historical_ticket",
+    "title": "Guidelines for Securing Medical Data with SAP ERP and DocuSign",
+    "content": "Guidelines for Securing Medical Data with SAP ERP and DocuSign\n\nIs it possible to offer guidelines on securing medical data through the integration of SAP ERP and DocuSign? Your assistance is greatly appreciated.",
+    "product": null,
+    "intent": "Request",
+    "severity": "medium",
+    "metadata": {
+      "queue": "IT Support",
+      "historical_answer": "I will provide general guidelines on securing medical data with SAP ERP and DocuSign. Please let me know if you prefer to receive this information via email or if you would like to schedule a call at a time convenient for you.",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Documentation",
+        "Security",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "33af694c18fd663424b4b2805d10c89440abe8cf411d0c88837a1c0de9c3c01c"
+  },
+  {
+    "source_id": "TICKET-005052",
+    "source_type": "historical_ticket",
+    "title": "",
+    "content": "Our SaaS project management application is encountering performance issues with slowdowns, which might be linked to inefficient PostgreSQL database performance and problematic Git operations. Despite efforts to optimize database queries and increase server resources, the issue continues. CPU usage monitoring indicates unusual spikes. We need help in identifying the root cause of these slowdowns.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "high",
+    "metadata": {
+      "queue": "Technical Support",
+      "historical_answer": "Please assist in identifying the root cause of the slowdown in the SaaS project management application. Kindly provide details on the analysis of the PostgreSQL database and Git operations.",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Performance",
+        "Bug",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "e08ac0bebcbe6e1e4253d583e7cffc182d25b00f566d064009eaa9c9d03db4db"
+  },
+  {
+    "source_id": "TICKET-005053",
+    "source_type": "historical_ticket",
+    "title": "Concern About Healthcare System Security",
+    "content": "Concern About Healthcare System Security\n\nThere was an unauthorized access attempt on the healthcare system, which affected secure medical data. This could be due to outdated software or misconfigured security settings. Steps to address the issue include reviewing logs and applying immediate security patches, but risks still remain. The security team is actively working to resolve the issue and prevent future occurrences. Please be informed of the actions taken to ensure the security of the system.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "high",
+    "metadata": {
+      "queue": "Technical Support",
+      "historical_answer": "Thank you for bringing this issue to our attention. We understand that the security of the healthcare system is of utmost importance. I would be glad to assist you by scheduling a call to discuss the current state of the system and the additional measures we are taking to prevent unauthorized access. Please let us know a suitable time for the call at <tel_num>. In the meantime, we recommend continuing to closely monitor the system and applying additional security patches.",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Security",
+        "IT",
+        "Tech Support",
+        "Maintenance"
+      ]
+    },
+    "content_hash": "4a553c2f4105318c0e28020e9f625a3ea3669a20decdf60686f309c832000cdf"
+  },
+  {
+    "source_id": "TICKET-005054",
+    "source_type": "historical_ticket",
+    "title": "Request for Information on Medical Data Security Services",
+    "content": "Request for Information on Medical Data Security Services\n\nHello, we appreciate your interest in our services for securing medical data in a hospital's IT environment. Our team offers a range of solutions to ensure the confidentiality and integrity of sensitive medical information. We provide security assessments, data encryption, and compliance consulting to meet regulatory requirements. Please let us know your specific needs and the type of current infrastructure you have in place for handling medical data. We would be happy to schedule a call at your convenience to discuss further.",
+    "product": null,
+    "intent": "Request",
+    "severity": "low",
+    "metadata": {
+      "queue": "Sales and Pre-Sales",
+      "historical_answer": "Thank you for your inquiry regarding our services for securing medical data in a hospital's IT environment. We appreciate your interest. Our team provides a variety of solutions to ensure the confidentiality and integrity of sensitive medical information. We offer security assessments, data encryption, and compliance consulting to meet regulatory requirements. Please provide us with more details about your current infrastructure and the type of medical data you are working with. We would like to schedule a call at your convenience to discuss your specific needs in more detail.",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Security",
+        "Compliance",
+        "Consulting",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "3a46b9efae41ba185d8c6f61ad33e6cffa33f667cf9633281a904f56cf8e259f"
+  },
+  {
+    "source_id": "TICKET-005055",
+    "source_type": "historical_ticket",
+    "title": "Problem with Adobe After Effects",
+    "content": "Problem with Adobe After Effects\n\nFacing scanner connection problems in Adobe After Effects, which might be owing to old drivers.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "low",
+    "metadata": {
+      "queue": "Technical Support",
+      "historical_answer": "I will help you with the Adobe After Effects issue. Please confirm your operating system and the current version of your drivers for further steps in troubleshooting.",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Technical",
+        "Product",
+        "Software",
+        "Bug",
+        "Hardware"
+      ]
+    },
+    "content_hash": "d327d4a6f8546298ac51424aff1136571f8c422a6e17450fa0666b8a5312023f"
+  },
+  {
+    "source_id": "TICKET-005056",
+    "source_type": "historical_ticket",
+    "title": "Promptly Inform User About Onboarding Process Upgrades",
+    "content": "Promptly Inform User About Onboarding Process Upgrades\n\nDear customer support, I am writing to request an update on the onboarding process for the project management platform. The current process is quite confusing and leads to a high dropout rate, which is not ideal for engagement and clarity. I suggest a streamlined approach, including interactive tutorials and clear instructions, as these will greatly enhance the user experience and encourage active participation. I believe an update is essential for the platform's success. Looking forward to hearing from you soon.",
+    "product": null,
+    "intent": "Change",
+    "severity": "low",
+    "metadata": {
+      "queue": "General Inquiry",
+      "historical_answer": "Hello [name], thank you for reaching out regarding the onboarding process for our project management platform. We appreciate your suggestions for improvement and agree that a streamlined approach, including interactive tutorials and clear instructions, would be beneficial. We will review the current process and consider your recommendations for an update. We are available to schedule a call at [tel_num] to discuss and gather more information and ideas for the revised onboarding process.",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Feedback",
+        "Feature",
+        "Documentation",
+        "Training"
+      ]
+    },
+    "content_hash": "8d2c54c4fd15f575cfa27feee6c35b0e673bc165c1126406a7566c1644a79580"
+  },
+  {
+    "source_id": "TICKET-005057",
+    "source_type": "historical_ticket",
+    "title": "Enhancing Digital Brand Growth",
+    "content": "Enhancing Digital Brand Growth\n\nIs it possible to offer detailed information on digital strategies for brand growth? I would appreciate a comprehensive understanding of the services and how they can benefit my business. I am interested in a detailed approach to increase brand visibility and engagement. Thank you for your assistance.",
+    "product": null,
+    "intent": "Request",
+    "severity": "high",
+    "metadata": {
+      "queue": "Technical Support",
+      "historical_answer": "I would be delighted to provide information on our digital strategies for brand growth. Our approach includes social media management, content creation, and online advertising. We can schedule a call at <tel_num> to discuss the services and how they can benefit your business, providing a customized solution to increase brand visibility and engagement.",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Feedback",
+        "Sales",
+        "Feature",
+        "Documentation"
+      ]
+    },
+    "content_hash": "098d5adb47f293f3cc854b5d03035c86b3586e4867806fabf434ea571e90adc5"
+  },
+  {
+    "source_id": "TICKET-005058",
+    "source_type": "historical_ticket",
+    "title": "Marketing Campaigns Performing Poorly Lately",
+    "content": "Marketing Campaigns Performing Poorly Lately\n\nMarketing campaigns are performing poorly, impacting brand growth. Despite adjusting ad spend, results have remained unchanged.",
+    "product": null,
+    "intent": "Problem",
+    "severity": "high",
+    "metadata": {
+      "queue": "Product Support",
+      "historical_answer": "I would be glad to assist with your underperforming marketing campaigns. Please provide specific details and metrics regarding the stagnant results and any adjustments made so far. I will review this information and discuss possible next steps with you.",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Feedback",
+        "Performance",
+        "Sales"
+      ]
+    },
+    "content_hash": "d271b26df6285bdba3ca6388c9f5e1fcaa9ca21060d89ce70dafb03bf3791139"
+  },
+  {
+    "source_id": "TICKET-005059",
+    "source_type": "historical_ticket",
+    "title": "Revise Digital Strategy Templates",
+    "content": "Revise Digital Strategy Templates\n\nCustomer support, kindly request an update on the digital strategy templates utilized in client campaigns. The current templates are outdated and do not effectively promote brand growth. I believe an update would enhance the overall effectiveness of our campaigns. The new templates should include the latest trends and practices in digital marketing. This would enable us to better serve our clients and improve our services. I would appreciate it if you could look into this matter and provide an update at your earliest convenience. Thank you for your time.",
+    "product": null,
+    "intent": "Change",
+    "severity": "high",
+    "metadata": {
+      "queue": "Product Support",
+      "historical_answer": "Dear [Name], we appreciate your request to revise the digital strategy templates. We will review the current templates and incorporate the latest trends and practices in digital marketing. We will provide an update as soon as possible. Should you need any assistance or wish to discuss this matter further, please let us know your preferred time to contact us at [Tel Number].",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Feedback",
+        "Product",
+        "Feature",
+        "Documentation",
+        "Sales",
+        "IT"
+      ]
+    },
+    "content_hash": "0e3ce1acd36a28885fc868bda46e5af3aeed726e09279268630a533c77978d15"
+  },
+  {
+    "source_id": "TICKET-005060",
+    "source_type": "historical_ticket",
+    "title": "Concerning Precision of Investment Optimization Model",
+    "content": "Concerning Precision of Investment Optimization Model\n\nThe investment optimization model is generating inaccurate forecasts due to conflicts with integrated analytics products. Efforts to isolate the problem have been unsuccessful.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "medium",
+    "metadata": {
+      "queue": "Product Support",
+      "historical_answer": "I am addressing the precision issues with the investment optimization model. To better understand the integration conflicts with analytics products, could you please provide specific details and any error messages you are encountering? Additionally, I would like to schedule a call at your convenience to discuss this further. Please let me know a suitable time to reach you at <tel_num>. This will help in resolving the issue and improving the model's forecast accuracy.",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Bug",
+        "Performance",
+        "Product",
+        "Feature",
+        "Feedback"
+      ]
+    },
+    "content_hash": "d923e35a0a71ed5a37dccc907284834af1ca802cedf0e512b8981e846f6a784c"
+  },
+  {
+    "source_id": "TICKET-005061",
+    "source_type": "historical_ticket",
+    "title": "Problem with Service Interruptions",
+    "content": "Problem with Service Interruptions\n\nFacing service outages impacting several essential tools. This could be due to server maintenance or unexpected load. So far, we have tried restarting the applications and clearing the cache, but these efforts have not been successful. Urgent help is needed to resolve this issue.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "medium",
+    "metadata": {
+      "queue": "Service Outages and Maintenance",
+      "historical_answer": "Starting immediate investigation into service outages",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Outage",
+        "Disruption",
+        "Maintenance",
+        "Performance",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "f42bfc593f292d8d988bd512e7f0c22ab4953b7cd8fef26ab0b762edada72c5d"
+  },
+  {
+    "source_id": "TICKET-005062",
+    "source_type": "historical_ticket",
+    "title": "Concern with Marketing Agency",
+    "content": "Concern with Marketing Agency\n\nThe analytics dashboard is no longer refreshing after the software update.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "medium",
+    "metadata": {
+      "queue": "Technical Support",
+      "historical_answer": "We are investigating the issue with the analytics dashboard not updating following the software update. Please provide additional details to assist with the investigation.",
+      "language": "en",
+      "version": 52,
+      "tags": [
+        "Feature",
+        "Software Update",
+        "Analytics",
+        "Dashboard",
+        "Marketing"
+      ]
+    },
+    "content_hash": "e3e83306424e4dac20255a7554c619a015dd5d3a388d1d86f0418d61f1c8fca9"
+  },
+  {
+    "source_id": "TICKET-005063",
+    "source_type": "historical_ticket",
+    "title": "Inquiry About SAP ERP Central Component 6.0 Licensing Pricing",
+    "content": "Inquiry About SAP ERP Central Component 6.0 Licensing Pricing\n\nDear Support Team, I would like to request detailed pricing information for SAP ERP Central Component 6.0 licensing. Can you share the latest pricing details, including any current discounts or promotions? Please also explain what the licensing fee covers, such as support and maintenance. Are there any extra costs for implementation, customization, or integration with other systems? I am looking forward to your response with this information. Thank you, [Your Name]",
+    "product": null,
+    "intent": "Request",
+    "severity": "high",
+    "metadata": {
+      "queue": "Billing and Payments",
+      "historical_answer": "Dear [Your Name], thank you for contacting us. I am glad to assist with the pricing details for SAP ERP Central Component 6.0 licensing. To provide you with an accurate quote, could you please share your company size and expected usage? We can discuss this further over the phone at your convenience. Please give me a call at [tel_num] when it suits you best.",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Billing",
+        "Product",
+        "Pricing",
+        "Licensing",
+        "Information Request"
+      ]
+    },
+    "content_hash": "63854a7e2212a46224c8145216cb3c0122434c1702cb96f395d8d57ab2a68150"
+  },
+  {
+    "source_id": "TICKET-005064",
+    "source_type": "historical_ticket",
+    "title": "Request for Information on Data Analytics Tools",
+    "content": "Request for Information on Data Analytics Tools\n\nCustomer Support, I am reaching out to inquire about the data analytics tools that are available for financial firms. Could you provide information on the tools that can help optimize investment strategies? I would like to know about their features and benefits, particularly regarding data visualization, predictive modeling, and risk analysis. Do these tools assist financial firms in making informed investment decisions and staying ahead of the competition? I would appreciate any additional information provided, including case studies and testimonials from existing clients.",
+    "product": null,
+    "intent": "Request",
+    "severity": "high",
+    "metadata": {
+      "queue": "Technical Support",
+      "historical_answer": "Dear [Name], thank you for reaching out to our customer support team regarding the data analytics tools for financial firms. Our tools offer advanced features such as data visualization, predictive modeling, and risk analysis, which can help optimize investment strategies. They provide financial firms with actionable insights to make informed investment decisions and stay ahead of the competition. We would be happy to provide you with more information, including case studies and testimonials from existing clients. This will help you better understand the benefits of our tools.",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Feature",
+        "Documentation",
+        "Feedback",
+        "Sales",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "4fa86fe14610a2d6610e7b4fa5e695cb37cd57984c072c3b3a17dc258f8c8029"
+  },
+  {
+    "source_id": "TICKET-005065",
+    "source_type": "historical_ticket",
+    "title": "Reported Partial Outage on SaaS Platform",
+    "content": "Reported Partial Outage on SaaS Platform\n\nThe SaaS platform is currently experiencing a partial outage, impacting several integrations such as ClickUp, Viber, and videoconferencing. Possible reasons include database overload or server misconfiguration. Our initial troubleshooting efforts involved restarting servers and performing database health checks, which did not fully resolve the issue. The team is actively working to identify the root cause and implement a solution to restore complete functionality. In the meantime, please be aware that some features may be temporarily unavailable. We apologize for the inconvenience caused and appreciate your patience.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "high",
+    "metadata": {
+      "queue": "Technical Support",
+      "historical_answer": "<name>, we apologize for the inconvenience caused by the partial outage of the SaaS platform, which affected integrations like ClickUp, Viber, and videoconferencing. Our team is diligently working to identify the root cause and implement a solution to fully restore services. Initial troubleshooting steps, including server restarts and database health checks, have been performed, but the issue remains unresolved. We appreciate your patience and will keep you updated as more information becomes available. If you need further assistance or have questions, please do not hesitate to contact us.",
+      "language": "en",
+      "version": 52,
+      "tags": [
+        "Outage",
+        "Disruption",
+        "Recovery",
+        "Performance",
+        "Server",
+        "Database",
+        "Configuration",
+        "IT"
+      ]
+    },
+    "content_hash": "65a6a6eb7a1181eebd964ce2a735d297dbe222f8ada333c25f047b73ca956a41"
+  },
+  {
+    "source_id": "TICKET-005066",
+    "source_type": "historical_ticket",
+    "title": "Guidance on Integrating Asana with Hemingway Editor",
+    "content": "Guidance on Integrating Asana with Hemingway Editor\n\nSeeking detailed instructions on how to integrate Asana with Hemingway Editor to enhance project management. Would greatly appreciate step-by-step guidance and any tips or best practices you can share. Thank you for your time and assistance. Looking forward to your response soon.",
+    "product": null,
+    "intent": "Request",
+    "severity": "high",
+    "metadata": {
+      "queue": "Customer Service",
+      "historical_answer": "To integrate Asana with Hemingway Editor, you will need to use Zapier or Integromat to connect the two tools. First, create a Zapier or Integromat account and connect your Asana and Hemingway Editor accounts. Then, set up a trigger in Hemingway Editor for when a new document is edited, and configure an action in Asana to create a new task. You can then configure the settings to match your workflow and test the integration. Alternatively, you can use Asana's API to integrate with Hemingway Editor, but this requires technical expertise.",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Feedback",
+        "Documentation",
+        "Feature",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "6ea58608f8a90e89aa8d1f59a7545c747f803d6663071f1eca24aff4433340c0"
+  },
+  {
+    "source_id": "TICKET-005067",
+    "source_type": "historical_ticket",
+    "title": "Concern with SaaS Project Management Tool",
+    "content": "Concern with SaaS Project Management Tool\n\nHave encountered connectivity problems with the SaaS project management tool, which integrates various devices such as external storage and smart home gadgets. The issue might be related to recent software updates or device compatibility. Steps taken include restarting devices and reconfiguring network settings, but the problem still persists. Assistance in resolving this matter would be greatly appreciated. Please provide any additional information if needed.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "medium",
+    "metadata": {
+      "queue": "Technical Support",
+      "historical_answer": "In response to your email regarding the SaaS project management tool issue. To assist further, could you please provide details on the software updates that were installed on your devices and the exact models being used? Additionally, knowing the specific error messages you are receiving would be very helpful. We would like to schedule a call at your convenience to discuss this matter further; please let us know a suitable time to contact you at <tel_num>.",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Network",
+        "Performance",
+        "Bug",
+        "Hardware",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "194d69e72a030352781fc4e4e16817b878b6aa71ee58d4a274a9df72aba1186e"
+  },
+  {
+    "source_id": "TICKET-005068",
+    "source_type": "historical_ticket",
+    "title": "RapidMiner Assistance Inquiry",
+    "content": "RapidMiner Assistance Inquiry\n\nI am contacting you to seek information about the documentation available for integrating RapidMiner with data analytics tools. Could you kindly direct me to the appropriate documentation or guides? I would greatly appreciate any help you can offer. I am anticipating your response and look forward to your prompt reply.",
+    "product": null,
+    "intent": "Request",
+    "severity": "low",
+    "metadata": {
+      "queue": "Technical Support",
+      "historical_answer": "Hello <name>, we are pleased to assist you with your query regarding RapidMiner data analytics integration documentation. We provide comprehensive documentation and guides for this purpose. You can access the necessary documentation on our official website within the support section. For detailed information, visit the RapidMiner community page, where you will find a variety of tutorials, user manuals, and FAQs. If you do not find the information you need, please inform me, and I will offer more personalized assistance. Alternatively, if you prefer to discuss this further by phone, please let me know a convenient time to call you at <tel_num>. I will ensure to call you at the time you suggest. Please feel free to contact me if you have further questions or concerns regarding RapidMiner data analytics integration.",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Technical",
+        "Documentation",
+        "Guidance",
+        "Feedback"
+      ]
+    },
+    "content_hash": "ce3f28424171375876b6fbfab930bd9467f0bee3ac6f9fb49d630f3238d09e1e"
+  },
+  {
+    "source_id": "TICKET-005069",
+    "source_type": "historical_ticket",
+    "title": "Assistance with Recent Security Incident Report",
+    "content": "Assistance with Recent Security Incident Report\n\nCustomer Support, I am preparing a report on a recent security incident that occurred at the hospital. There was an unauthorized access incident that compromised the medical data in the hospital's systems. The incident may have been due to outdated security protocols or user errors. We have already attempted to update the security software and reviewed access logs, but the issue persists. I would greatly appreciate your guidance on how to resolve this issue and prevent future incidents. Please inform me of the next steps. Thank you for your assistance.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "high",
+    "metadata": {
+      "queue": "Returns and Exchanges",
+      "historical_answer": "{name}, we acknowledge the reported security incident at the hospital. To assist you, we need information on the steps that have been taken so far. Please provide details on the compromised data and any security software updates that have been applied. We will schedule a call at {tel_num} to discuss the next steps and provide guidance on resolving the issue.",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Security",
+        "IT",
+        "Tech Support",
+        "Bug"
+      ]
+    },
+    "content_hash": "24e1de7498c48b32531ec1d1a7eb39f8be515992c236a1b8b73f90c60d581ab0"
+  },
+  {
+    "source_id": "TICKET-005070",
+    "source_type": "historical_ticket",
+    "title": "Concerning Predictions",
+    "content": "Concerning Predictions\n\nThe investment optimization tool used by the financial firm is producing inaccurate predictions. This might be due to data integration errors. Efforts to recalibrate the analytics model and revalidate the data sources have been unsuccessful. Assistance in resolving this issue would be greatly appreciated.",
+    "product": null,
+    "intent": "Problem",
+    "severity": "medium",
+    "metadata": {
+      "queue": "Product Support",
+      "historical_answer": "We will assist in addressing the issue of inaccurate predictions with the investment optimization tool. Please provide details on the data integration errors you have encountered and we will schedule a call at a convenient time to discuss the resolution.",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Bug",
+        "Performance",
+        "Documentation",
+        "Feedback",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "39fa2cbeedf12cfa28fd06a3aecd0967a5585c8c81fa01acf17d5b03137932f9"
+  },
+  {
+    "source_id": "TICKET-005071",
+    "source_type": "historical_ticket",
+    "title": "Problem with Recent Order",
+    "content": "Problem with Recent Order\n\nA few items from my recent purchase are not amongst my delivery. I reached out to the support team, but the problem still hasn't been resolved. It could be due to a shipping error or a mismatch in inventory. I would be grateful if you could look into this and offer a solution at your earliest convenience. Kindly inform me if any further details from my side are required to address this.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "medium",
+    "metadata": {
+      "queue": "Returns and Exchanges",
+      "historical_answer": "I will look into the discrepancy regarding your order. Could you please share your order number so I can investigate the missing items and get back to you with a solution as soon as possible?",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Order",
+        "Shipment",
+        "Discrepancy",
+        "Resolution",
+        "Feedback"
+      ]
+    },
+    "content_hash": "7373d9cf391a89fb0831242970ceedd42c5aa10f049a735580832676407b950d"
+  },
+  {
+    "source_id": "TICKET-005072",
+    "source_type": "historical_ticket",
+    "title": "Query for Detailed Documentation on ActiveCampaign Integration",
+    "content": "Query for Detailed Documentation on ActiveCampaign Integration\n\nContacting Customer Support to request detailed documentation for integrating the ActiveCampaign SaaS project management tool. Would like to know the step-by-step process for setting up the integration, including necessary API key credentials. Additionally, would appreciate information on how to configure the integration to meet specific needs. A comprehensive guide or tutorial for successfully integrating the ActiveCampaign tool would be greatly appreciated. Looking forward to hearing back soon. Thank you for your assistance.",
+    "product": null,
+    "intent": "Request",
+    "severity": "high",
+    "metadata": {
+      "queue": "IT Support",
+      "historical_answer": "Hello, thank you for reaching out to our support team regarding the ActiveCampaign integration for the SaaS project management tool. We appreciate your interest in our product and are happy to assist you with the integration process. To provide you with the most accurate information, a comprehensive guide is available on our website that outlines the step-by-step process for setting up the integration, including obtaining and configuring necessary API key credentials. If you prefer a more personalized walkthrough, we would be happy to schedule a call at a convenient time to discuss your specific needs.",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Documentation",
+        "Feedback",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "a705af62bedfea6e90c9b8b7037a3a91671b083cf7e0f787bdaf0fe09772eadb"
+  },
+  {
+    "source_id": "TICKET-005073",
+    "source_type": "historical_ticket",
+    "title": "Unanticipated Fees Detected Across Several Items",
+    "content": "Unanticipated Fees Detected Across Several Items\n\nThe marketing firm encountered unforeseen fees impacting various products. There may have been a billing system glitch that incorrectly applied subscriptions. Support was contacted to confirm account information, and although a solution has not yet been found, assistance is appreciated to address this issue promptly and provide a resolution.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "high",
+    "metadata": {
+      "queue": "Billing and Payments",
+      "historical_answer": "<name>, we received your email regarding the unexpected charges on multiple products. We apologize for any inconvenience caused. We are currently investigating the matter. Could you please provide specific details about the charges and the affected products? We are reviewing your account <acc_num> to work towards a resolution. If necessary, we may need to contact you directly. Please let us know a convenient time for a call at <tel_num>.",
+      "language": "en",
+      "version": 52,
+      "tags": [
+        "Billing",
+        "Issue",
+        "Support",
+        "Account",
+        "Glitch"
+      ]
+    },
+    "content_hash": "1984099af24d44718f1c81e2f68f96bbb163528c566f7979a7e229571b09c2dc"
+  },
+  {
+    "source_id": "TICKET-005074",
+    "source_type": "historical_ticket",
+    "title": "",
+    "content": "Dear Customer Support, I am writing to inquire about the payment methods for Switch and MATLAB R2021a subscriptions. I am keen on purchasing a subscription but need to know which payment options are accepted. Could you kindly provide a list of available payment methods? Additionally, I would be grateful if you could share any discounts or promotions that might be available. Moreover, I am interested in understanding if there are any differences in the payment options for individual and business subscriptions. I look forward to your response and to learning more about the payment options for Switch and MATLAB R2021a subscriptions. Thank you for your time and assistance. I am enthusiastic about the prospect of using these products and believe they will be helpful in my work. Please let me know if you require any additional information from me.",
+    "product": null,
+    "intent": "Request",
+    "severity": "medium",
+    "metadata": {
+      "queue": "Billing and Payments",
+      "historical_answer": "Dear <name>, we value your interest in Switch and MATLAB R2021a subscriptions, and we accept a variety of payment methods such as credit cards and bank transfers. For detailed information on payment options and any existing discounts or promotions, I would be glad to go over them with you. Could you please confirm whether you are interested in an individual or business subscription? If you prefer to discuss over the phone, please provide a convenient time for me to call you at <tel_num>. We look forward to assisting you with your subscription purchase and providing further details about our offerings.",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Billing",
+        "Payment",
+        "Subscription",
+        "Discount",
+        "Promotion",
+        "Inquiry",
+        "Customer"
+      ]
+    },
+    "content_hash": "cb738c933370333f969a9ba43dce4e21e632a7ca058b1a8dc823d920f76e2096"
+  },
+  {
+    "source_id": "TICKET-005075",
+    "source_type": "historical_ticket",
+    "title": "Report on Recent Webex Meetings Integration Issue",
+    "content": "Report on Recent Webex Meetings Integration Issue\n\nDear Customer Support,\\n\\nI am reaching out to address a problem I've encountered with the Webex Meetings integration. This issue only appeared after recent software updates, and I believe it may be due to a compatibility issue with the Zapier connector.\\n\\nI've already attempted to resolve the issue by restarting my UniFi Dream Machine and reviewing the Discord notifications, but the issue still persists. I would greatly appreciate your assistance in diagnosing and resolving this problem.\\n\\nCould you please provide me with more details on the updates that led to this issue and the specific error message? Additionally, what version of the Zapier connector am I using? If a more detailed discussion is necessary, I am open to scheduling a call at a convenient time for you, which can be arranged via the telephone number <tel_num>. I look forward to your prompt response and resolution of this matter.\\n\\nThank you for your time and support.\\nBest regards,",
+    "product": null,
+    "intent": "Incident",
+    "severity": "high",
+    "metadata": {
+      "queue": "Product Support",
+      "historical_answer": "Dear [Customer's Name],\\n\\nThank you for your email detailing the issue with the Webex Meetings integration. We regret the inconvenience this has caused and appreciate the troubleshooting steps you have already taken. To better investigate this issue, could you please provide us with further information regarding the recent updates and the precise error message you are encountering? It would also be helpful to know the version of the Zapier connector that you are currently using. If necessary, we can arrange a call at a convenient time for you, to discuss this issue in more detail, which can be scheduled using the provided telephone number <tel_num>. We will do our best to address this issue promptly. Thank you for your patience and cooperation.\\n\\nBest regards, [Support Team Name]",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Technical",
+        "Integration",
+        "Bug",
+        "Resolution",
+        "Support",
+        "Webex",
+        "Zapier",
+        "Documentation"
+      ]
+    },
+    "content_hash": "4f127a2897b78d0caff5166a346ca02d0cd5858ed3f529a35ce79f6a8d8612dc"
+  },
+  {
+    "source_id": "TICKET-005076",
+    "source_type": "historical_ticket",
+    "title": "Inquiry About Integrating Zapier Project Management Solution",
+    "content": "Inquiry About Integrating Zapier Project Management Solution\n\nSeeking information on the process of integrating Zapier's project management SaaS solution. Would greatly appreciate detailed guidance and resources to help me get started. Specifically, I am interested in learning about the types of triggers and actions available. Could you point me to any tutorials or documentation? Looking forward to hearing back as I explore the possibilities of this integration.",
+    "product": null,
+    "intent": "Request",
+    "severity": "high",
+    "metadata": {
+      "queue": "IT Support",
+      "historical_answer": "We appreciate your interest in integrating Zapier's project management SaaS solution. To get started, please visit our website and navigate to the integrations section where you can find a step-by-step guide for setting up the Zapier integration. Our solution offers a variety of triggers and actions that can be customized to fit your workflow. For detailed information, we provide a link to our documentation and tutorials. If you would like, we can schedule a call at <tel_num> to walk you through the process and answer any questions you may have regarding <acc_num>. Please let us know.",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Feature",
+        "Documentation",
+        "Feedback",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "feb416f1b8b398c4ea3a78757fc8df860f418dacff20358bedf63bb44d5d8246"
+  },
+  {
+    "source_id": "TICKET-005077",
+    "source_type": "historical_ticket",
+    "title": "Integration of Sony Vegas Pro 18",
+    "content": "Integration of Sony Vegas Pro 18\n\nHello Support Team, I am contacting you to seek details on the integration potential between Sony Vegas Pro 18 and your project management software as a service platform. Particularly, I am interested in learning if there are any plugins or APIs that could enable a smooth integration of the two systems. My aim is to optimize my workflow and enhance teamwork. Could you kindly furnish me with the necessary information on the available integration solutions, and if possible, provide links to any tutorials or documentation? Your insights would be greatly appreciated. I am eagerly awaiting your response. Thanks for your attention and help. I am optimistic about your prompt reply.",
+    "product": null,
+    "intent": "Request",
+    "severity": "medium",
+    "metadata": {
+      "queue": "Customer Service",
+      "historical_answer": "Hello <name>, we are grateful for your interest in integrating Sony Vegas Pro 18 with our project management software as a service platform. We supply an API for seamless integration, and we have detailed documentation to assist you. I am willing to share more information and tutorials to help you start. If you prefer, I can call you at a time that suits you, please let me know a convenient time to contact you at <tel_num>.",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Technical",
+        "Integration",
+        "Documentation",
+        "API",
+        "Guidance"
+      ]
+    },
+    "content_hash": "795484e635b0e7ae003ac8d36a38faca9686cdc70ee12f2bcf67d46e9a154308"
+  },
+  {
+    "source_id": "TICKET-005078",
+    "source_type": "historical_ticket",
+    "title": "",
+    "content": "Dear Customer Support, we have noted a considerable decrease in our online engagement metrics over the past week. This may be due to recent algorithm changes on social media platforms. We have attempted to adjust our content strategy, which has shown some improvements, but we are still closely monitoring the situation as it concerns our business. We would greatly appreciate your guidance and support to help us better understand and address this issue. Please let us know if there is any additional information needed.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "high",
+    "metadata": {
+      "queue": "Technical Support",
+      "historical_answer": "Hello, to assist with the recent drop in your online engagement metrics, could you please provide specific details on the metrics that have dropped and the adjustments made to your content strategy so far? Additionally, knowing the social media platforms you are using would be helpful. We will review the information provided to offer guidance on improving your online engagement. If further assistance is needed, we can schedule a call at <tel_num>. Please let us know a convenient time to discuss this further.",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Feedback",
+        "Performance",
+        "Documentation"
+      ]
+    },
+    "content_hash": "7aac49098bcfec3a7a70d63f90c23e33307da24885cc07df3639b41ead1fb08d"
+  },
+  {
+    "source_id": "TICKET-005079",
+    "source_type": "historical_ticket",
+    "title": "Problem with FL Studio Integration API Compatibility",
+    "content": "Problem with FL Studio Integration API Compatibility\n\nDear Customer Support, I am submitting this report regarding the difficulties I am encountering while integrating the FL Studio SaaS project management tool. It appears that the issue stems from API compatibility issues. Despite reinstalling FL Studio and updating the integration settings, the problem continues to persist. I have attempted various troubleshooting steps but have not been successful. I would greatly appreciate your assistance in resolving this issue. Could you please provide guidance on how to resolve the API compatibility faults and suggest alternative solutions for integration? Thank you.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "low",
+    "metadata": {
+      "queue": "Customer Service",
+      "historical_answer": "Hello, we are acknowledging your email regarding the issue with integrating the FL Studio SaaS project management tool due to API compatibility faults. We would like to assist in resolving this issue. Could you please provide us with detailed error messages and the version of FL Studio you are using? This information will help us better understand the problem and provide an accurate solution. We are available to schedule a call at <tel_num> to discuss the troubleshooting process and offer guidance. Thank you.",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Bug",
+        "Performance",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "bb9cf405d664b3e2195774ba54f937f1b5033b375bfae30451bd18a876813c68"
+  },
+  {
+    "source_id": "TICKET-005080",
+    "source_type": "historical_ticket",
+    "title": "Encountered Issues with Medical Data Encryption",
+    "content": "Encountered Issues with Medical Data Encryption\n\nThere has been a failure in the encryption of medical data. There may be an issue with the configuration of the Scikit-learn library. Steps already taken include restarting macOS and examining the IBM Cloud settings.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "low",
+    "metadata": {
+      "queue": "Technical Support",
+      "historical_answer": "I will thoroughly examine the problem with the medical data encryption and the possible Scikit-learn library configuration error. Please provide additional information about your IBM Cloud settings and the specific error message you are encountering to help resolve the issue.",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Technical",
+        "Security",
+        "Bug",
+        "Documentation",
+        "Incident",
+        "Resolution"
+      ]
+    },
+    "content_hash": "84d4db67ae7b732755852a5d7482679fd4f177944f870abfd6c475fea33613d7"
+  },
+  {
+    "source_id": "TICKET-005081",
+    "source_type": "historical_ticket",
+    "title": "Reported Issue with SaaS Functionality Usage",
+    "content": "Reported Issue with SaaS Functionality Usage\n\nNoted an unexpected breakdown in using essential SaaS features. This might be linked to server overload or configuration problems. Steps taken include restarting the involved applications.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "medium",
+    "metadata": {
+      "queue": "Human Resources",
+      "historical_answer": "{name}, we acknowledge your email about the SaaS functionality usage issue and apologize for any inconvenience this has caused. We understand that your team has already attempted to restart the affected applications. To better assist in resolving the issue, could you please provide any error messages you are receiving when specific functionalities are inaccessible? Additionally, could you confirm the last time the applications were functioning correctly and whether any recent changes were made to the configuration? This information will be helpful.",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Bug",
+        "Performance",
+        "Outage",
+        "Disruption",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "e100565ae73d31ac51cb140c86e81496d135ccccb8246852ccceb4416dd7821a"
+  },
+  {
+    "source_id": "TICKET-005082",
+    "source_type": "historical_ticket",
+    "title": "",
+    "content": "The investment optimization application experienced a crash while processing large datasets, possibly due to database overload. The Oracle Database was restarted and memory leaks were checked.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "high",
+    "metadata": {
+      "queue": "Technical Support",
+      "historical_answer": "Immediate action was taken to resolve the issue by restarting the Oracle Database and checking for memory leaks to prevent future crashes.",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Bug",
+        "Crash",
+        "Performance",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "20f4f179c8261d3b8b4157aa24d8981c91908d603a9ec58de4a2e28b6587a432"
+  },
+  {
+    "source_id": "TICKET-005083",
+    "source_type": "historical_ticket",
+    "title": "Request for Pricing Details Urgently",
+    "content": "Request for Pricing Details Urgently\n\nI am contacting you to seek information about the pricing of your bundled services and product solutions. I would appreciate it if you could give me a comprehensive breakdown of the costs associated with these offerings. I am keen to learn about the different packages you have available and how they could benefit my business. Specifically, I am interested in knowing if there are any discounts available for long-term contracts or bulk purchases. Additionally, could you provide me with details on the support and maintenance services included with each package? I am looking forward to your prompt response and to discussing how your solutions can assist me in achieving my objectives.",
+    "product": null,
+    "intent": "Request",
+    "severity": "high",
+    "metadata": {
+      "queue": "Billing and Payments",
+      "historical_answer": "Dear <name>, thank you for contacting us regarding our bundled services and product solutions. I am pleased to share that I can provide you with a detailed cost breakdown. We offer multiple packages with different pricing levels, and we also have special discounts for long-term commitments and bulk purchases. The support and maintenance options that come with each package vary, but generally include phone and email support, as well as regular software updates. To tailor our proposal to your specific needs and provide a customized quote, could you arrange a call at your convenience, perhaps using the number <tel_num>. Alternatively, if you prefer, I can send the information via email. I am eager to hear from you soon and discuss how our solutions can support you.",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Billing",
+        "Product",
+        "Sales",
+        "Feedback",
+        "Pricing"
+      ]
+    },
+    "content_hash": "c2026ff1d7047fa235f533cce0fcc7ca0ceedfe394d8c99f508a15f73163b5e2"
+  },
+  {
+    "source_id": "TICKET-005084",
+    "source_type": "historical_ticket",
+    "title": "",
+    "content": "I'm encountering incorrect investment forecasts, which might be due to data feed interruptions or modeling errors. Despite restarting the system and verifying data sources, the problem still exists. I would greatly appreciate support in addressing this issue.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "high",
+    "metadata": {
+      "queue": "Product Support",
+      "historical_answer": "I'm here to assist you with the incorrect investment forecasts. To better understand the situation, could you provide more details about any error messages you are encountering? Additionally, please share specifics regarding the forecasts that are inaccurate. I am available to discuss this further at your convenience and help find a solution.",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Technical",
+        "Bug",
+        "Performance",
+        "Incident",
+        "Resolution"
+      ]
+    },
+    "content_hash": "ce9257831728a9a89d6f4d26bdbd8c40a5c527cef8858327abf70802b079bf80"
+  },
+  {
+    "source_id": "TICKET-005085",
+    "source_type": "historical_ticket",
+    "title": "Support for SaaS Integration",
+    "content": "Support for SaaS Integration\n\nInquiring about SaaS integration capabilities. Would like detailed information on integrating MySQL 8.0 with Jenkins. Need to know about compatibility and any potential limitations. Also, would appreciate examples of successful integrations and relevant documentation. This information will help in better understanding the services to determine if they meet our needs. Thank you for your assistance. Looking forward to hearing back soon.",
+    "product": null,
+    "intent": "Request",
+    "severity": "low",
+    "metadata": {
+      "queue": "Sales and Pre-Sales",
+      "historical_answer": "Thank you for reaching out to our support team regarding SaaS integration capabilities. We will provide detailed information on the integration of MySQL 8.0 with Jenkins, including compatibility and limitations. We will also share examples of successful integrations and relevant documentation. For your convenience, please let us know a time that is convenient for you to discuss this further via email or a call. You can reach us at <tel_num>.",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Feature",
+        "Documentation",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "ff9a7fd783ffdfca605bd7e3cb8953849f6ad6f7b43c84b64bc8bc1ac8a8dc85"
+  },
+  {
+    "source_id": "TICKET-005086",
+    "source_type": "historical_ticket",
+    "title": "Information on Billing Options for Airtable Integration",
+    "content": "Information on Billing Options for Airtable Integration\n\nI am interested in learning about the billing options for Airtable integration. Could you please provide detailed information on the available plans and their corresponding costs? I would greatly appreciate it if you could explain how the billing cycle works and any discounts that are available for long-term commitments or large-scale implementations.",
+    "product": null,
+    "intent": "Request",
+    "severity": "medium",
+    "metadata": {
+      "queue": "Billing and Payments",
+      "historical_answer": "I would be happy to provide information on the billing options for Airtable integration, including the available plans and their costs. Please allow me to call you at your convenience to discuss the details regarding the billing cycles and any potential discounts.",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Billing",
+        "Payment",
+        "Feature",
+        "Sales",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "4fcf07caa4408a59ddd57f2248a8a95eabdc37bee35876f2f3dd351c6f939404"
+  },
+  {
+    "source_id": "TICKET-005087",
+    "source_type": "historical_ticket",
+    "title": "Enhancing Security Measures for Medical Data Systems",
+    "content": "Enhancing Security Measures for Medical Data Systems\n\nRequest for Information on Medical Data Security",
+    "product": null,
+    "intent": "Request",
+    "severity": "medium",
+    "metadata": {
+      "queue": "IT Support",
+      "historical_answer": "Please contact [Name] for further details.",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Security",
+        "Documentation",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "78e65b54c5e65ccf02aaac5865a6beffacd0eb758c3cd9f683719ef7d6a90ef2"
+  },
+  {
+    "source_id": "TICKET-005088",
+    "source_type": "historical_ticket",
+    "title": "Strategies for Brand Growth Services",
+    "content": "Strategies for Brand Growth Services\n\nCustomer Support, seeking details on digital strategies for brand growth services. Would be grateful if you could share the specifics of the services offered to assist businesses in enhancing their online presence and increasing brand awareness. Particularly interested in learning about social media management, content creation, and search engine optimization services. Looking forward to your response at your earliest convenience.",
+    "product": null,
+    "intent": "Request",
+    "severity": "medium",
+    "metadata": {
+      "queue": "Sales and Pre-Sales",
+      "historical_answer": "Dear [Name], thank you for your inquiry regarding brand growth services. We will send you detailed information on our digital strategies, including social media management, content creation, and search engine optimization. Please contact us to discuss these further.",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Feedback",
+        "Sales",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "36f0965444e36f9e2d3e088cea74ad1fb3a5012dec532ad78809bca7dc71ccb9"
+  },
+  {
+    "source_id": "TICKET-005089",
+    "source_type": "historical_ticket",
+    "title": "Request for Assistance with System Outage",
+    "content": "Request for Assistance with System Outage\n\nEncountered a system outage that impacted several products. The outage might be related to recent updates to the integration platform. After restarting services and clearing the cache, the issue still persists.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "high",
+    "metadata": {
+      "queue": "Technical Support",
+      "historical_answer": "Could you please provide details on the products affected by this issue?",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Outage",
+        "Disruption",
+        "Performance",
+        "Product",
+        "Feature",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "0fc841c1e90ec7cfa8df2d54d41ecc44accc9723b11a125e987b7cf9f55f76a5"
+  },
+  {
+    "source_id": "TICKET-005090",
+    "source_type": "historical_ticket",
+    "title": "Request for Guidance on Jenkins Integration",
+    "content": "Request for Guidance on Jenkins Integration\n\nI am contacting you to seek guidance on integrating Jenkins with your project management SaaS solution. Could you share any pertinent information regarding this integration? I would greatly value any available documentation or instructional materials. Specifically, I am keen to understand the advantages and potential obstacles associated with using Jenkins in conjunction with your platform. I am looking forward to your response and to exploring ways to optimize our development process together.",
+    "product": null,
+    "intent": "Request",
+    "severity": "medium",
+    "metadata": {
+      "queue": "Product Support",
+      "historical_answer": "Certainly, I would be glad to assist with the Jenkins integration. We have comprehensive documentation and guides that I can forward to you. Let me know a suitable time for discussing the benefits and challenges of integrating Jenkins with our platform, and I will be available to address any questions you might have.",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Technical",
+        "Documentation",
+        "Guidance",
+        "Integration",
+        "Jenkins",
+        "Optimization"
+      ]
+    },
+    "content_hash": "7a08f9be72b2d610730620da1ae462477b70ea1a370eee7ce7dcbb97ef9dd414"
+  },
+  {
+    "source_id": "TICKET-005091",
+    "source_type": "historical_ticket",
+    "title": "Report on DocuSign Malfunction",
+    "content": "Report on DocuSign Malfunction\n\nA financial institution is facing difficulties with document signing via DocuSign. The issue might be due to software compatibility problems or server overload. Rebooting the systems has been attempted.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "medium",
+    "metadata": {
+      "queue": "Technical Support",
+      "historical_answer": "Please investigate the DocuSign problem and contact <tel_num> to discuss possible solutions. Reference account number: <acc_num>.",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Bug",
+        "Performance",
+        "Outage",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "e267a8af55f76f19b49bf260b8b8efd8ad19242d9057876e75c92d7ee8d8e447"
+  },
+  {
+    "source_id": "TICKET-005092",
+    "source_type": "historical_ticket",
+    "title": "Issues with Automatic Project Timelines Updates",
+    "content": "Issues with Automatic Project Timelines Updates\n\nProject timelines are not updating automatically. This might be due to recent system updates. I have restarted the system and checked the settings, but the problem persists.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "medium",
+    "metadata": {
+      "queue": "Technical Support",
+      "historical_answer": "I am investigating the reason why your project timelines are not updating automatically. Could you provide more information regarding the recent system updates and the settings you have verified? It would be helpful if we could schedule a call to discuss this issue further. Could <tel_num> be a suitable contact number for you at a convenient time?",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Technical",
+        "Bug",
+        "Documentation",
+        "Maintenance",
+        "Resolution",
+        "Update",
+        "Feature",
+        "Routine"
+      ]
+    },
+    "content_hash": "30ff7e3d09490d16e8eeb97dcaeb6232cfc9c8ed3670c31325c91df194a11ec4"
+  },
+  {
+    "source_id": "TICKET-005093",
+    "source_type": "historical_ticket",
+    "title": "Concern about Marketing Metrics",
+    "content": "Concern about Marketing Metrics\n\nCustomer Support,<br><br>I am writing to bring to your attention a pressing issue that our marketing agency is currently facing. Despite implementing a digital strategy, we are experiencing discrepancies in our brand's growth metrics. Despite efforts to verify integrations within IFTTT and adjust settings in Monday.com, the issues persist.<br><br>The main problem seems to be with inconsistent data across tools like Zoho CRM and Google Analytics. We have attempted to troubleshoot the issue but have been unable to identify the root cause.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "low",
+    "metadata": {
+      "queue": "Product Support",
+      "historical_answer": "Name writing to acknowledge the email regarding the issue with marketing metrics that the marketing agency is facing. We understand that you are experiencing discrepancies in your brand's growth metrics due to inconsistent data across tools like Zoho CRM and Google Analytics. In order to assist in resolving the issue, we would like to request more specific information about the discrepancies and the steps that have been taken so far to troubleshoot the issue. Could you please provide details on the integrations within IFTTT and any settings that have been adjusted?",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Feedback",
+        "Performance",
+        "Documentation"
+      ]
+    },
+    "content_hash": "392eaeaccaed5009022d60bba7d1282886f0cddcda57cb4846f9910936638d65"
+  },
+  {
+    "source_id": "TICKET-005094",
+    "source_type": "historical_ticket",
+    "title": "Security Concern - Unauthorised Access Attempt",
+    "content": "Security Concern - Unauthorised Access Attempt\n\nThere was an unauthorized access attempt on our hospital's system yesterday. It might have occurred due to a phishing email targeted at the staff. We have immediately informed the employees and updated the security protocols. The investigation is ongoing to assess potential vulnerabilities and take necessary actions to prevent future incidents.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "medium",
+    "metadata": {
+      "queue": "IT Support",
+      "historical_answer": "Thank you for the update on the system security issue at the hospital. We appreciate the prompt actions taken to inform the staff and update the security protocols. We would like to assist in the investigation and assess potential vulnerabilities. Could you please provide details about the phishing email and the current security measures in place? Additionally, we need to schedule a call at a convenient time to discuss the matter further.",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Security",
+        "IT",
+        "Tech Support",
+        "Feedback"
+      ]
+    },
+    "content_hash": "9814de33999a74fe7faef0f48e503c84871c3655f0d1e8dc6efc1ca382df3897"
+  },
+  {
+    "source_id": "TICKET-005095",
+    "source_type": "historical_ticket",
+    "title": "System Crashes During Project Exports",
+    "content": "System Crashes During Project Exports\n\nWe are facing system crashes during project exports, which we believe are due to memory overload with large datasets. Despite attempts to optimize data processing routines and increase memory allocation, the problem persists. Please help us resolve this issue.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "high",
+    "metadata": {
+      "queue": "Technical Support",
+      "historical_answer": "We are investigating the system crashes encountered during project exports. To assist you better, could you please provide details on the datasets and the optimization steps you have taken so far? We would like to schedule a call at your convenience to discuss possible solutions. Please let us know a suitable time to reach you at <tel_num>.",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Bug",
+        "Crash",
+        "Performance",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "32505bba6e88a10f5ce3d52ac6354c843b01edbc2497af89050f3be0ba26d999"
+  },
+  {
+    "source_id": "TICKET-005096",
+    "source_type": "historical_ticket",
+    "title": "Please update billing details",
+    "content": "Please update billing details\n\nI am writing to request an update to my billing details, as allowing more flexible payment plan options would greatly benefit our customers and enhance their overall experience. At present, the payment plan options are limited and inflexible, which can be a hindrance to users. I would greatly appreciate it if these updates could be made as soon as possible. Thank you for your time and consideration.",
+    "product": null,
+    "intent": "Change",
+    "severity": "medium",
+    "metadata": {
+      "queue": "Billing and Payments",
+      "historical_answer": "We appreciate your email regarding the request to update your billing details and the desire to allow more flexible payment plan options for users. We understand that the current payment plan options may be limited and inflexible, which can be a hindrance to users. We will forward your request to the billing team for review and consider implementing more flexible payment plan options. To better understand your specific requirements, we would like to request additional information regarding the type of payment plan options you are seeking.",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Billing",
+        "Payment",
+        "Feedback",
+        "Account"
+      ]
+    },
+    "content_hash": "69274a393b8918afd3b6813e922aacb14dd2e4411f49c683af2f0048c18288d8"
+  },
+  {
+    "source_id": "TICKET-005097",
+    "source_type": "historical_ticket",
+    "title": "Marketing Agency Experiencing Slowdown in Brand Growth Due to Digital Strategies",
+    "content": "Marketing Agency Experiencing Slowdown in Brand Growth Due to Digital Strategies\n\nOur marketing agency is facing a slowdown in brand growth due to ineffective campaigns and technology disruptions. After analyzing the data and modifying our strategies, we have seen some improvements, but we need assistance in identifying the root cause and implementing effective solutions to boost brand growth.",
+    "product": null,
+    "intent": "Problem",
+    "severity": "low",
+    "metadata": {
+      "queue": "Customer Service",
+      "historical_answer": "<name> understands that your marketing agency is experiencing a slowdown in brand growth due to digital strategies and needs assistance in identifying the root cause and implementing effective solutions. To better understand the issue, <name> would like to discuss it with you. Could you please provide information on the data analyzed and the strategies modified so far? Additionally, it would be helpful to know if there are specific technology disruptions that you suspect may be contributing to the slowdown. <name> can be reached at <tel_num> for a suitable discussion.",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Performance",
+        "Disruption",
+        "Feedback",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "25a675ff504480c7093987bb59c0eac5f69ddc9bdbebfd5018e20732d9773d6d"
+  },
+  {
+    "source_id": "TICKET-005098",
+    "source_type": "historical_ticket",
+    "title": "Project Management Software Inquiry",
+    "content": "Project Management Software Inquiry\n\nCustomer Support, seeking details on SaaS features for project management, scalability. Can provide information to assist in platform support for growth and managing increasing project complexity? Looking for a solution to help streamline our workflow, enhance collaboration, and improve overall productivity. Specifically, interested in features such as task assignment, progress tracking, and resource allocation. Additionally, would appreciate information on customization options and integration tools.",
+    "product": null,
+    "intent": "Request",
+    "severity": "medium",
+    "metadata": {
+      "queue": "Customer Service",
+      "historical_answer": "\\\"name\\\", thanks for reaching out to our customer support team regarding project management software. We offer a range of features designed to support team growth and manage project complexity, including task assignment, progress tracking, and resource allocation. Our platform allows for customization and integration tools. We would be happy to provide more information to meet your specific needs. We are available to discuss further via a call at <tel_num> or email at <email>.",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Feature",
+        "Documentation",
+        "Feedback",
+        "Sales",
+        "IT",
+        "Tech Support"
+      ]
+    },
+    "content_hash": "97febfa80008538eba6cbd1b5e91a11969e759cb9ae192f461eabbbfe74a07fa"
+  },
+  {
+    "source_id": "TICKET-005099",
+    "source_type": "historical_ticket",
+    "title": "Issue with Medical Data Access",
+    "content": "Issue with Medical Data Access\n\nPlease find a brief description of the issue: There was an unexpected denial of access to medical data, which may be due to a configuration error or recent software update. After restarting the servers and verifying permissions, the problem still exists.",
+    "product": null,
+    "intent": "Incident",
+    "severity": "medium",
+    "metadata": {
+      "queue": "IT Support",
+      "historical_answer": "Hello <name>, we have received your email regarding the issue with accessing medical data. We understand that you have encountered difficulties even after attempting to restart the servers and check permissions. To better understand and resolve this issue, we need further information. Could you share details about the recent software updates and configuration changes? Additionally, if it is convenient, we can also discuss this over a call at <tel_num> to provide a prompt solution to the problem you are facing with your <acc_num>.",
+      "language": "en",
+      "version": null,
+      "tags": [
+        "Customer",
+        "Bug",
+        "Security",
+        "Access",
+        "Configuration",
+        "Server",
+        "Permission",
+        "Issue"
+      ]
+    },
+    "content_hash": "950c0d37f4ef761f149820f2a07f5f8a305ade6cbfb021061a59178c387a6650"
+  },
+  {
+    "source_id": "TICKET-005100",
+    "source_type": "historical_ticket",
+    "title": "Support for Connectivity Issues on Scalable SaaS Platform",
+    "content": "Support for Connectivity Issues on Scalable SaaS Platform\n\nFacing connectivity problems on our scalable SaaS platform, which is affecting project management features. It might be due to configuration conflicts between the Aruba switch and IBM Cloud servers. We have already attempted restarting the switch and reviewing network configurations, but the issue still persists. Our team has tried various troubleshooting steps, but we are unable to resolve it. We would greatly appreciate your assistance and guidance to help us get the platform running smoothly again.",
+    "product": null,
+    "intent": "Problem",
+    "severity": "high",
+    "metadata": {
+      "queue": "Technical Support",
+      "historical_answer": "Assistance needed for connectivity issues on the scalable SaaS platform. To better understand the problem, please provide details on the configuration conflicts that you suspect are happening with the Aruba switch and IBM Cloud servers. It would be helpful to know the exact error messages you are seeing and any relevant network configuration settings. Once you provide this information, I can offer guidance on the next steps to resolve the issue. If needed, let's schedule a call at your convenience to discuss this further. Please let me know a suitable time.",
+      "language": "en",
+      "version": 400,
+      "tags": [
+        "Network",
+        "Performance",
+        "IT",
+        "Tech Support",
+        "Bug"
+      ]
+    },
+    "content_hash": "2fb3dca569d4729f7bfb35c8db0d5e556c39223858676929e261338ab8d4db19"
+  }
+]

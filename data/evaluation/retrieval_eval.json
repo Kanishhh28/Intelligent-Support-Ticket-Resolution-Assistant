@@ -1,0 +1,202 @@
+[
+  {
+    "query": "Why can't I get a 5G connection?",
+    "relevant_sources": ["KB-5G-001"]
+  },
+  {
+    "query": "My phone is not connecting to 5G",
+    "relevant_sources": ["KB-5G-001"]
+  },
+  {
+    "query": "My 4G LTE connection is not working properly",
+    "relevant_sources": ["KB-5G-002"]
+  },
+  {
+    "query": "I am having problems with LTE connectivity",
+    "relevant_sources": ["KB-5G-002"]
+  },
+  {
+    "query": "I cannot log into my telecom account",
+    "relevant_sources": ["KB-ACCOUNT-001"]
+  },
+  {
+    "query": "I am unable to access my account",
+    "relevant_sources": ["KB-ACCOUNT-001"]
+  },
+  {
+    "query": "My mobile data is not working",
+    "relevant_sources": ["KB-DATA-001"]
+  },
+  {
+    "query": "I have network signal but mobile internet does not work",
+    "relevant_sources": ["KB-DATA-001"]
+  },
+  {
+    "query": "How do I fix my APN settings?",
+    "relevant_sources": ["KB-APN-001"]
+  },
+  {
+    "query": "My mobile internet is not working because of APN settings",
+    "relevant_sources": ["KB-APN-001"]
+  },
+  {
+    "query": "The amount on my mobile bill is incorrect",
+    "relevant_sources": ["KB-BILL-001"]
+  },
+  {
+    "query": "I was charged the wrong amount on my phone bill",
+    "relevant_sources": ["KB-BILL-001"]
+  },
+  {
+    "query": "My recharge payment failed",
+    "relevant_sources": ["KB-BILL-002"]
+  },
+  {
+    "query": "I cannot complete my mobile recharge",
+    "relevant_sources": ["KB-BILL-002"]
+  },
+  {
+    "query": "I cannot make outgoing calls",
+    "relevant_sources": ["KB-CALL-001"]
+  },
+  {
+    "query": "My outgoing calls are not working",
+    "relevant_sources": ["KB-CALL-001"]
+  },
+  {
+    "query": "People cannot call me",
+    "relevant_sources": ["KB-CALL-002"]
+  },
+  {
+    "query": "I cannot receive incoming calls",
+    "relevant_sources": ["KB-CALL-002"]
+  },
+  {
+    "query": "My internet is extremely slow",
+    "relevant_sources": ["KB-DATA-002"]
+  },
+  {
+    "query": "Mobile data works but the internet speed is very slow",
+    "relevant_sources": ["KB-DATA-002"]
+  },
+  {
+    "query": "I have used up all my mobile data",
+    "relevant_sources": ["KB-DATA-003"]
+  },
+  {
+    "query": "My data allowance has been exhausted",
+    "relevant_sources": ["KB-DATA-003"]
+  },
+  {
+    "query": "My phone says no service",
+    "relevant_sources": ["KB-NET-001"]
+  },
+  {
+    "query": "I have no network signal",
+    "relevant_sources": ["KB-NET-001"]
+  },
+  {
+    "query": "My calls keep dropping",
+    "relevant_sources": ["KB-NET-003"]
+  },
+  {
+    "query": "My phone calls disconnect frequently",
+    "relevant_sources": ["KB-NET-003"]
+  },
+  {
+    "query": "People cannot hear me clearly during calls",
+    "relevant_sources": ["KB-NET-004"]
+  },
+  {
+    "query": "My voice calls have very poor quality",
+    "relevant_sources": ["KB-NET-004"]
+  },
+  {
+    "query": "I think there is a mobile network outage",
+    "relevant_sources": ["KB-OUTAGE-001"]
+  },
+  {
+    "query": "Is there currently an outage affecting my mobile network?",
+    "relevant_sources": ["KB-OUTAGE-001"]
+  },
+  {
+    "query": "The network in my area has become very weak",
+    "relevant_sources": ["KB-OUTAGE-002"]
+  },
+  {
+    "query": "My region is experiencing network degradation",
+    "relevant_sources": ["KB-OUTAGE-002"]
+  },
+  {
+    "query": "How do I activate a mobile plan?",
+    "relevant_sources": ["KB-PLAN-001"]
+  },
+  {
+    "query": "I want to activate a new mobile pack",
+    "relevant_sources": ["KB-PLAN-001"]
+  },
+  {
+    "query": "My phone service does not work while roaming",
+    "relevant_sources": ["KB-ROAM-001"]
+  },
+  {
+    "query": "I cannot make calls when I am abroad",
+    "relevant_sources": ["KB-ROAM-001"]
+  },
+  {
+    "query": "I was charged unexpectedly while roaming",
+    "relevant_sources": ["KB-ROAM-002"]
+  },
+  {
+    "query": "Why did I receive unexpected roaming charges?",
+    "relevant_sources": ["KB-ROAM-002"]
+  },
+  {
+    "query": "I think someone has accessed my SIM without permission",
+    "relevant_sources": ["KB-SEC-001"]
+  },
+  {
+    "query": "There is suspicious activity on my telecom account",
+    "relevant_sources": ["KB-SEC-001"]
+  },
+  {
+    "query": "My SIM card is not detected",
+    "relevant_sources": ["KB-SIM-001"]
+  },
+  {
+    "query": "My phone says there is no SIM card",
+    "relevant_sources": ["KB-SIM-001"]
+  },
+  {
+    "query": "My SIM activation is failing",
+    "relevant_sources": ["KB-SIM-002"]
+  },
+  {
+    "query": "I cannot activate my SIM card",
+    "relevant_sources": ["KB-SIM-002"]
+  },
+  {
+    "query": "My eSIM activation is not working",
+    "relevant_sources": ["KB-SIM-003"]
+  },
+  {
+    "query": "I am having trouble activating my eSIM",
+    "relevant_sources": ["KB-SIM-003"]
+  },
+  {
+    "query": "I cannot send or receive SMS messages",
+    "relevant_sources": ["KB-SMS-001"]
+  },
+  {
+    "query": "My text messages are not working",
+    "relevant_sources": ["KB-SMS-001"]
+  },
+  {
+    "query": "I have a telecom problem and need troubleshooting",
+    "relevant_sources": ["KB-TROUBLE-001"]
+  },
+  {
+    "query": "I tried troubleshooting but my telecom issue still isn't resolved",
+    "relevant_sources": ["KB-TROUBLE-001"]
+  }
+]
