@@ -20,11 +20,15 @@ Given a raw customer complaint, the system:
 
 <!-- Insert Product Demo Video Here -->
 
+https://github.com/user-attachments/assets/81ff097a-6d3c-4192-abfe-71801852bddd
+
 Demonstrates the complete product workflow — from submitting a raw customer complaint through query analysis, semantic retrieval, grounded resolution generation, and source citations.
 
 ### 🛠️ Backend Debugging & Engineering Walkthrough
 
 <!-- Insert Backend Walkthrough Video Here -->
+
+https://github.com/user-attachments/assets/253e56a3-b4b7-4b9e-bcef-61eeb9dd1fa1
 
 Covers the backend implementation and debugging process, including API flow, query analysis, retrieval, LLM integration, validation, fallback handling, and testing.
 
